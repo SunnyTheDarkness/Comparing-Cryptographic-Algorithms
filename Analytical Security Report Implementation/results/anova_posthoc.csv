@@ -1,0 +1,64 @@
+family,condition,group1,group2,mean_diff_log10,p_adj,reject_H0,ratio_g2_over_g1
+hash,"hash @ 1,000 B",md5,sha256,-0.1822,0.0,True,0.6573550444548966
+hash,"hash @ 1,000 B",md5,sha3_256,0.1519,0.0,True,1.4187308092351427
+hash,"hash @ 1,000 B",sha256,sha3_256,0.3342,0.0,True,2.158738316012814
+hash,"hash @ 10,000 B",md5,sha256,-0.3359,0.0,True,0.46142380908764385
+hash,"hash @ 10,000 B",md5,sha3_256,0.1388,0.0,True,1.3765753865094161
+hash,"hash @ 10,000 B",sha256,sha3_256,0.4747,0.0,True,2.983321101768172
+hash,"hash @ 100,000 B",md5,sha256,-0.3573,0.0,True,0.4392380956904633
+hash,"hash @ 100,000 B",md5,sha3_256,0.1418,0.0,True,1.3861173512382439
+hash,"hash @ 100,000 B",sha256,sha3_256,0.4991,0.0,True,3.1557311736800226
+hash,"hash @ 1,000,000 B",md5,sha256,-0.3661,0.0,True,0.4304274894883303
+hash,"hash @ 1,000,000 B",md5,sha3_256,0.1554,0.0,True,1.4302106247365645
+hash,"hash @ 1,000,000 B",sha256,sha3_256,0.5215,0.0,True,3.3227678521107564
+hash,"hash @ 10,000,000 B",md5,sha256,-0.3668,0.0,True,0.42973428115368056
+hash,"hash @ 10,000,000 B",md5,sha3_256,0.1775,0.0,True,1.5048735188025137
+hash,"hash @ 10,000,000 B",sha256,sha3_256,0.5443,0.0,True,3.5018698409688764
+hash,"hash @ 100,000,000 B",md5,sha256,-0.3604,0.0,True,0.4361139713930647
+hash,"hash @ 100,000,000 B",md5,sha3_256,0.1538,0.0,True,1.4249512281888121
+hash,"hash @ 100,000,000 B",sha256,sha3_256,0.5141,0.0,True,3.2666304045806873
+symmetric,"symmetric decrypt @ 1,000 B",3DES-CBC,AES-256-GCM,-2.0868,0.0,True,0.008188417919005117
+symmetric,"symmetric decrypt @ 1,000 B",3DES-CBC,ChaCha20 (raw),-1.4805,0.0,True,0.03307501120592545
+symmetric,"symmetric decrypt @ 1,000 B",AES-256-GCM,ChaCha20 (raw),0.6063,0.0,True,4.03924317653098
+symmetric,"symmetric decrypt @ 10,000 B",3DES-CBC,AES-256-GCM,-2.4014,0.0,True,0.003968258909509114
+symmetric,"symmetric decrypt @ 10,000 B",3DES-CBC,ChaCha20 (raw),-2.0479,0.0,True,0.008955709546432745
+symmetric,"symmetric decrypt @ 10,000 B",AES-256-GCM,ChaCha20 (raw),0.3535,0.0,True,2.2568359954972257
+symmetric,"symmetric decrypt @ 100,000 B",3DES-CBC,AES-256-GCM,-2.683,0.0,True,0.002074913517454911
+symmetric,"symmetric decrypt @ 100,000 B",3DES-CBC,ChaCha20 (raw),-2.4067,0.0,True,0.003920125762951651
+symmetric,"symmetric decrypt @ 100,000 B",AES-256-GCM,ChaCha20 (raw),0.2764,0.0,True,1.8897310544316768
+symmetric,"symmetric decrypt @ 1,000,000 B",3DES-CBC,AES-256-GCM,-2.1695,0.0,True,0.00676861792919746
+symmetric,"symmetric decrypt @ 1,000,000 B",3DES-CBC,ChaCha20 (raw),-2.0944,0.0,True,0.008046370017398006
+symmetric,"symmetric decrypt @ 1,000,000 B",AES-256-GCM,ChaCha20 (raw),0.0751,0.0,True,1.188775921697214
+symmetric,"symmetric decrypt @ 10,000,000 B",3DES-CBC,AES-256-GCM,-2.2992,0.0,True,0.005021113054699537
+symmetric,"symmetric decrypt @ 10,000,000 B",3DES-CBC,ChaCha20 (raw),-2.1829,0.0,True,0.0065629636672922
+symmetric,"symmetric decrypt @ 10,000,000 B",AES-256-GCM,ChaCha20 (raw),0.1163,0.0,True,1.307073470721708
+symmetric,"symmetric decrypt @ 100,000,000 B",3DES-CBC,AES-256-GCM,-2.319,0.0,True,0.0047973344863668915
+symmetric,"symmetric decrypt @ 100,000,000 B",3DES-CBC,ChaCha20 (raw),-2.2229,0.0,True,0.005985494002869498
+symmetric,"symmetric decrypt @ 100,000,000 B",AES-256-GCM,ChaCha20 (raw),0.0961,0.0,True,1.247670767981497
+symmetric,"symmetric encrypt @ 1,000 B",3DES-CBC,AES-256-GCM,-2.0974,0.0,True,0.007990979195810984
+symmetric,"symmetric encrypt @ 1,000 B",3DES-CBC,ChaCha20 (raw),-1.45,0.0,True,0.03548133892335755
+symmetric,"symmetric encrypt @ 1,000 B",AES-256-GCM,ChaCha20 (raw),0.6474,0.0,True,4.4401741080689465
+symmetric,"symmetric encrypt @ 10,000 B",3DES-CBC,AES-256-GCM,-2.403,0.0,True,0.003953666200681279
+symmetric,"symmetric encrypt @ 10,000 B",3DES-CBC,ChaCha20 (raw),-2.0421,0.0,True,0.009076115208402083
+symmetric,"symmetric encrypt @ 10,000 B",AES-256-GCM,ChaCha20 (raw),0.3608,0.0,True,2.295091476024226
+symmetric,"symmetric encrypt @ 100,000 B",3DES-CBC,AES-256-GCM,-2.6877,0.0,True,0.002052579560952531
+symmetric,"symmetric encrypt @ 100,000 B",3DES-CBC,ChaCha20 (raw),-2.3909,0.0,True,0.004065369269757338
+symmetric,"symmetric encrypt @ 100,000 B",AES-256-GCM,ChaCha20 (raw),0.2967,0.0,True,1.980158708082412
+symmetric,"symmetric encrypt @ 1,000,000 B",3DES-CBC,AES-256-GCM,-2.1966,0.0,True,0.006359163628244043
+symmetric,"symmetric encrypt @ 1,000,000 B",3DES-CBC,ChaCha20 (raw),-2.0952,0.0,True,0.008031561699226565
+symmetric,"symmetric encrypt @ 1,000,000 B",AES-256-GCM,ChaCha20 (raw),0.1014,0.0,True,1.2629902560699358
+symmetric,"symmetric encrypt @ 10,000,000 B",3DES-CBC,AES-256-GCM,-2.2993,0.0,True,0.00501995703378947
+symmetric,"symmetric encrypt @ 10,000,000 B",3DES-CBC,ChaCha20 (raw),-2.206,0.0,True,0.006223002851691595
+symmetric,"symmetric encrypt @ 10,000,000 B",AES-256-GCM,ChaCha20 (raw),0.0933,0.0,True,1.2396526125232525
+symmetric,"symmetric encrypt @ 100,000,000 B",3DES-CBC,AES-256-GCM,-2.299,0.0,True,0.005023425895223871
+symmetric,"symmetric encrypt @ 100,000,000 B",3DES-CBC,ChaCha20 (raw),-2.2058,0.0,True,0.006225869310387436
+symmetric,"symmetric encrypt @ 100,000,000 B",AES-256-GCM,ChaCha20 (raw),0.0932,0.0,True,1.239367204820681
+asymmetric,asymmetric keygen,ECDSA P-256,Ed25519,0.2863,0.0013,True,1.9333033344966102
+asymmetric,asymmetric keygen,ECDSA P-256,RSA-2048 (PSS),3.2612,0.0,True,1824.7358307625811
+asymmetric,asymmetric keygen,Ed25519,RSA-2048 (PSS),2.9749,0.0,True,943.8435232605137
+asymmetric,asymmetric sign,ECDSA P-256,Ed25519,0.1168,0.0,True,1.3085791612450994
+asymmetric,asymmetric sign,ECDSA P-256,RSA-2048 (PSS),1.3318,0.0,True,21.468415893607418
+asymmetric,asymmetric sign,Ed25519,RSA-2048 (PSS),1.215,0.0,True,16.405897731995395
+asymmetric,asymmetric verify,ECDSA P-256,Ed25519,0.0811,0.0,True,1.2053134420984206
+asymmetric,asymmetric verify,ECDSA P-256,RSA-2048 (PSS),-0.3245,0.0,True,0.4736963081746327
+asymmetric,asymmetric verify,Ed25519,RSA-2048 (PSS),-0.4055,0.0,True,0.39309724490746734

@@ -1,0 +1,5 @@
+algorithm,trials,tamper_detected,corrupted_plaintext_accepted
+AES-256-GCM,100,100,0
+ChaCha20-Poly1305,100,100,0
+ChaCha20 (raw),100,0,100
+3DES-CBC,100,0,100

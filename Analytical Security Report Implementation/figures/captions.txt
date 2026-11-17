@@ -1,0 +1,13 @@
+Fig. 0: Security services provided by the nine algorithms. 'Limited' = conditional: MD5 (collision-broken, non-security checksums only), 3DES (deprecated), RSA/ECC encryption (small payloads or via hybrid ECDH only), AES-GCM authentication (shared key, so no non-repudiation).
+
+Fig. 1: Hash throughput vs input size. Lines show median throughput; shaded bands show the IQR (25th-75th percentile) over n = 30 repetitions per point.
+
+Fig. 2: Symmetric throughput vs input size. Median with IQR bands, n = 30 per point. Solid lines are authenticated (AEAD) modes; dashed lines provide confidentiality only.
+
+Fig. 3: Asymmetric operation times (median, IQR whiskers). Sign and verify n = 100; key generation n = 30. Key generation is right-skewed (RSA searches for random primes), so median and IQR are reported instead of mean and SD.
+
+Fig. 4: Serialised key and signature sizes in bytes (private keys: PKCS#8 DER; public keys: SubjectPublicKeyInfo DER). Counts above bars are exact sizes.
+
+Fig. 5: Hybrid pipelines (key establishment + AES-256-GCM). Left: median end-to-end time (sender and recipient), IQR whiskers, n = 30. Right: bytes added to the payload (wrapped key or ephemeral public key, nonce, GCM tag).
+
+Fig. 6: Nominal security strength against measured throughput. Strengths from NIST SP 800-57 Pt 1 Rev. 5 (3TDEA 112 bits, AES-256 256 bits, SHA-256 and SHA3-256 128-bit collision strength) and RFC 8439 (ChaCha20). MD5 is shown at its nominal 64-bit collision bound but is practically broken.

@@ -1,0 +1,1441 @@
+algorithm,size_bytes,rep,operation,time_s,overhead_bytes
+AES-256-GCM,1000,0,encrypt,7e-07,16
+AES-256-GCM,1000,0,decrypt,7e-07,16
+AES-256-GCM,1000,1,encrypt,7e-07,16
+AES-256-GCM,1000,1,decrypt,8e-07,16
+AES-256-GCM,1000,2,encrypt,7e-07,16
+AES-256-GCM,1000,2,decrypt,7e-07,16
+AES-256-GCM,1000,3,encrypt,7e-07,16
+AES-256-GCM,1000,3,decrypt,7e-07,16
+AES-256-GCM,1000,4,encrypt,6e-07,16
+AES-256-GCM,1000,4,decrypt,1.1e-06,16
+AES-256-GCM,1000,5,encrypt,6e-07,16
+AES-256-GCM,1000,5,decrypt,8e-07,16
+AES-256-GCM,1000,6,encrypt,7e-07,16
+AES-256-GCM,1000,6,decrypt,7e-07,16
+AES-256-GCM,1000,7,encrypt,6e-07,16
+AES-256-GCM,1000,7,decrypt,7e-07,16
+AES-256-GCM,1000,8,encrypt,7e-07,16
+AES-256-GCM,1000,8,decrypt,7e-07,16
+AES-256-GCM,1000,9,encrypt,7e-07,16
+AES-256-GCM,1000,9,decrypt,7e-07,16
+AES-256-GCM,1000,10,encrypt,7e-07,16
+AES-256-GCM,1000,10,decrypt,6e-07,16
+AES-256-GCM,1000,11,encrypt,7e-07,16
+AES-256-GCM,1000,11,decrypt,6e-07,16
+AES-256-GCM,1000,12,encrypt,7e-07,16
+AES-256-GCM,1000,12,decrypt,6e-07,16
+AES-256-GCM,1000,13,encrypt,7e-07,16
+AES-256-GCM,1000,13,decrypt,7e-07,16
+AES-256-GCM,1000,14,encrypt,7e-07,16
+AES-256-GCM,1000,14,decrypt,7e-07,16
+AES-256-GCM,1000,15,encrypt,6e-07,16
+AES-256-GCM,1000,15,decrypt,7e-07,16
+AES-256-GCM,1000,16,encrypt,6e-07,16
+AES-256-GCM,1000,16,decrypt,7e-07,16
+AES-256-GCM,1000,17,encrypt,6e-07,16
+AES-256-GCM,1000,17,decrypt,7e-07,16
+AES-256-GCM,1000,18,encrypt,6e-07,16
+AES-256-GCM,1000,18,decrypt,7e-07,16
+AES-256-GCM,1000,19,encrypt,8e-07,16
+AES-256-GCM,1000,19,decrypt,7e-07,16
+AES-256-GCM,1000,20,encrypt,7e-07,16
+AES-256-GCM,1000,20,decrypt,6e-07,16
+AES-256-GCM,1000,21,encrypt,6e-07,16
+AES-256-GCM,1000,21,decrypt,7e-07,16
+AES-256-GCM,1000,22,encrypt,6e-07,16
+AES-256-GCM,1000,22,decrypt,6e-07,16
+AES-256-GCM,1000,23,encrypt,8e-07,16
+AES-256-GCM,1000,23,decrypt,6e-07,16
+AES-256-GCM,1000,24,encrypt,8e-07,16
+AES-256-GCM,1000,24,decrypt,7e-07,16
+AES-256-GCM,1000,25,encrypt,7e-07,16
+AES-256-GCM,1000,25,decrypt,6e-07,16
+AES-256-GCM,1000,26,encrypt,7e-07,16
+AES-256-GCM,1000,26,decrypt,7e-07,16
+AES-256-GCM,1000,27,encrypt,7e-07,16
+AES-256-GCM,1000,27,decrypt,7e-07,16
+AES-256-GCM,1000,28,encrypt,7e-07,16
+AES-256-GCM,1000,28,decrypt,6e-07,16
+AES-256-GCM,1000,29,encrypt,7e-07,16
+AES-256-GCM,1000,29,decrypt,7e-07,16
+ChaCha20 (raw),1000,0,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,0,decrypt,3.1e-06,0
+ChaCha20 (raw),1000,1,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,1,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,2,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,2,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,3,encrypt,2.9e-06,0
+ChaCha20 (raw),1000,3,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,4,encrypt,3.4e-06,0
+ChaCha20 (raw),1000,4,decrypt,3.4e-06,0
+ChaCha20 (raw),1000,5,encrypt,2.9e-06,0
+ChaCha20 (raw),1000,5,decrypt,2.9e-06,0
+ChaCha20 (raw),1000,6,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,6,decrypt,2.9e-06,0
+ChaCha20 (raw),1000,7,encrypt,2.8e-06,0
+ChaCha20 (raw),1000,7,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,8,encrypt,2.9e-06,0
+ChaCha20 (raw),1000,8,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,9,encrypt,2.9e-06,0
+ChaCha20 (raw),1000,9,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,10,encrypt,2.9e-06,0
+ChaCha20 (raw),1000,10,decrypt,2.9e-06,0
+ChaCha20 (raw),1000,11,encrypt,3e-06,0
+ChaCha20 (raw),1000,11,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,12,encrypt,2.8e-06,0
+ChaCha20 (raw),1000,12,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,13,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,13,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,14,encrypt,3.6e-06,0
+ChaCha20 (raw),1000,14,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,15,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,15,decrypt,2.6e-06,0
+ChaCha20 (raw),1000,16,encrypt,2.8e-06,0
+ChaCha20 (raw),1000,16,decrypt,2.6e-06,0
+ChaCha20 (raw),1000,17,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,17,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,18,encrypt,3.2e-06,0
+ChaCha20 (raw),1000,18,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,19,encrypt,3e-06,0
+ChaCha20 (raw),1000,19,decrypt,2.9e-06,0
+ChaCha20 (raw),1000,20,encrypt,3e-06,0
+ChaCha20 (raw),1000,20,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,21,encrypt,2.9e-06,0
+ChaCha20 (raw),1000,21,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,22,encrypt,2.8e-06,0
+ChaCha20 (raw),1000,22,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,23,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,23,decrypt,2.8e-06,0
+ChaCha20 (raw),1000,24,encrypt,2.8e-06,0
+ChaCha20 (raw),1000,24,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,25,encrypt,2.8e-06,0
+ChaCha20 (raw),1000,25,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,26,encrypt,2.8e-06,0
+ChaCha20 (raw),1000,26,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,27,encrypt,3.2e-06,0
+ChaCha20 (raw),1000,27,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,28,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,28,decrypt,2.7e-06,0
+ChaCha20 (raw),1000,29,encrypt,3.1e-06,0
+ChaCha20 (raw),1000,29,decrypt,2.6e-06,0
+ChaCha20-Poly1305,1000,0,encrypt,1.5e-06,16
+ChaCha20-Poly1305,1000,0,decrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,1,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,1,decrypt,1.6e-06,16
+ChaCha20-Poly1305,1000,2,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,2,decrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,3,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,3,decrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,4,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,4,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,5,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,5,decrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,6,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,6,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,7,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,7,decrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,8,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,8,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,9,encrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,9,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,10,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,10,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,11,encrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,11,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,12,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,12,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,13,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,13,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,14,encrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,14,decrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,15,encrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,15,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,16,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,16,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,17,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,17,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,18,encrypt,1.5e-06,16
+ChaCha20-Poly1305,1000,18,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,19,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,19,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,20,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,20,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,21,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,21,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,22,encrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,22,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,23,encrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,23,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,24,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,24,decrypt,1.7e-06,16
+ChaCha20-Poly1305,1000,25,encrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,25,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,26,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,26,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,27,encrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,27,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,28,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,28,decrypt,1.3e-06,16
+ChaCha20-Poly1305,1000,29,encrypt,1.4e-06,16
+ChaCha20-Poly1305,1000,29,decrypt,1.3e-06,16
+3DES-CBC,1000,0,encrypt,8.89e-05,16
+3DES-CBC,1000,0,decrypt,8.72e-05,16
+3DES-CBC,1000,1,encrypt,8.52e-05,16
+3DES-CBC,1000,1,decrypt,8.42e-05,16
+3DES-CBC,1000,2,encrypt,8.59e-05,16
+3DES-CBC,1000,2,decrypt,8.42e-05,16
+3DES-CBC,1000,3,encrypt,8.65e-05,16
+3DES-CBC,1000,3,decrypt,8.47e-05,16
+3DES-CBC,1000,4,encrypt,8.43e-05,16
+3DES-CBC,1000,4,decrypt,8.36e-05,16
+3DES-CBC,1000,5,encrypt,8.32e-05,16
+3DES-CBC,1000,5,decrypt,8.28e-05,16
+3DES-CBC,1000,6,encrypt,8.5e-05,16
+3DES-CBC,1000,6,decrypt,8.41e-05,16
+3DES-CBC,1000,7,encrypt,8.53e-05,16
+3DES-CBC,1000,7,decrypt,8.51e-05,16
+3DES-CBC,1000,8,encrypt,8.42e-05,16
+3DES-CBC,1000,8,decrypt,8.34e-05,16
+3DES-CBC,1000,9,encrypt,8.57e-05,16
+3DES-CBC,1000,9,decrypt,8.42e-05,16
+3DES-CBC,1000,10,encrypt,8.41e-05,16
+3DES-CBC,1000,10,decrypt,8.31e-05,16
+3DES-CBC,1000,11,encrypt,8.41e-05,16
+3DES-CBC,1000,11,decrypt,9e-05,16
+3DES-CBC,1000,12,encrypt,8.45e-05,16
+3DES-CBC,1000,12,decrypt,8.25e-05,16
+3DES-CBC,1000,13,encrypt,8.33e-05,16
+3DES-CBC,1000,13,decrypt,8.19e-05,16
+3DES-CBC,1000,14,encrypt,8.33e-05,16
+3DES-CBC,1000,14,decrypt,8.2e-05,16
+3DES-CBC,1000,15,encrypt,8.34e-05,16
+3DES-CBC,1000,15,decrypt,8.24e-05,16
+3DES-CBC,1000,16,encrypt,8.34e-05,16
+3DES-CBC,1000,16,decrypt,8.26e-05,16
+3DES-CBC,1000,17,encrypt,8.31e-05,16
+3DES-CBC,1000,17,decrypt,0.0001037,16
+3DES-CBC,1000,18,encrypt,0.000105,16
+3DES-CBC,1000,18,decrypt,8.61e-05,16
+3DES-CBC,1000,19,encrypt,8.49e-05,16
+3DES-CBC,1000,19,decrypt,8.25e-05,16
+3DES-CBC,1000,20,encrypt,8.38e-05,16
+3DES-CBC,1000,20,decrypt,8.35e-05,16
+3DES-CBC,1000,21,encrypt,8.3e-05,16
+3DES-CBC,1000,21,decrypt,8.25e-05,16
+3DES-CBC,1000,22,encrypt,8.33e-05,16
+3DES-CBC,1000,22,decrypt,8.17e-05,16
+3DES-CBC,1000,23,encrypt,8.35e-05,16
+3DES-CBC,1000,23,decrypt,8.25e-05,16
+3DES-CBC,1000,24,encrypt,8.29e-05,16
+3DES-CBC,1000,24,decrypt,8.17e-05,16
+3DES-CBC,1000,25,encrypt,8.3e-05,16
+3DES-CBC,1000,25,decrypt,8.24e-05,16
+3DES-CBC,1000,26,encrypt,8.29e-05,16
+3DES-CBC,1000,26,decrypt,8.27e-05,16
+3DES-CBC,1000,27,encrypt,8.33e-05,16
+3DES-CBC,1000,27,decrypt,8.23e-05,16
+3DES-CBC,1000,28,encrypt,8.29e-05,16
+3DES-CBC,1000,28,decrypt,8.19e-05,16
+3DES-CBC,1000,29,encrypt,8.35e-05,16
+3DES-CBC,1000,29,decrypt,8.22e-05,16
+AES-256-GCM,10000,0,encrypt,2.9e-06,16
+AES-256-GCM,10000,0,decrypt,2.9e-06,16
+AES-256-GCM,10000,1,encrypt,2.8e-06,16
+AES-256-GCM,10000,1,decrypt,2.7e-06,16
+AES-256-GCM,10000,2,encrypt,3.1e-06,16
+AES-256-GCM,10000,2,decrypt,2.8e-06,16
+AES-256-GCM,10000,3,encrypt,2.8e-06,16
+AES-256-GCM,10000,3,decrypt,2.8e-06,16
+AES-256-GCM,10000,4,encrypt,2.8e-06,16
+AES-256-GCM,10000,4,decrypt,2.7e-06,16
+AES-256-GCM,10000,5,encrypt,2.8e-06,16
+AES-256-GCM,10000,5,decrypt,2.9e-06,16
+AES-256-GCM,10000,6,encrypt,2.8e-06,16
+AES-256-GCM,10000,6,decrypt,2.7e-06,16
+AES-256-GCM,10000,7,encrypt,2.8e-06,16
+AES-256-GCM,10000,7,decrypt,2.7e-06,16
+AES-256-GCM,10000,8,encrypt,2.9e-06,16
+AES-256-GCM,10000,8,decrypt,2.8e-06,16
+AES-256-GCM,10000,9,encrypt,2.8e-06,16
+AES-256-GCM,10000,9,decrypt,2.7e-06,16
+AES-256-GCM,10000,10,encrypt,2.7e-06,16
+AES-256-GCM,10000,10,decrypt,2.8e-06,16
+AES-256-GCM,10000,11,encrypt,2.8e-06,16
+AES-256-GCM,10000,11,decrypt,2.7e-06,16
+AES-256-GCM,10000,12,encrypt,2.8e-06,16
+AES-256-GCM,10000,12,decrypt,2.7e-06,16
+AES-256-GCM,10000,13,encrypt,2.9e-06,16
+AES-256-GCM,10000,13,decrypt,2.8e-06,16
+AES-256-GCM,10000,14,encrypt,2.8e-06,16
+AES-256-GCM,10000,14,decrypt,2.7e-06,16
+AES-256-GCM,10000,15,encrypt,2.8e-06,16
+AES-256-GCM,10000,15,decrypt,2.7e-06,16
+AES-256-GCM,10000,16,encrypt,2.8e-06,16
+AES-256-GCM,10000,16,decrypt,2.8e-06,16
+AES-256-GCM,10000,17,encrypt,2.8e-06,16
+AES-256-GCM,10000,17,decrypt,2.8e-06,16
+AES-256-GCM,10000,18,encrypt,2.9e-06,16
+AES-256-GCM,10000,18,decrypt,2.8e-06,16
+AES-256-GCM,10000,19,encrypt,2.8e-06,16
+AES-256-GCM,10000,19,decrypt,2.7e-06,16
+AES-256-GCM,10000,20,encrypt,2.7e-06,16
+AES-256-GCM,10000,20,decrypt,2.8e-06,16
+AES-256-GCM,10000,21,encrypt,2.9e-06,16
+AES-256-GCM,10000,21,decrypt,2.8e-06,16
+AES-256-GCM,10000,22,encrypt,2.9e-06,16
+AES-256-GCM,10000,22,decrypt,2.8e-06,16
+AES-256-GCM,10000,23,encrypt,2.7e-06,16
+AES-256-GCM,10000,23,decrypt,2.7e-06,16
+AES-256-GCM,10000,24,encrypt,2.7e-06,16
+AES-256-GCM,10000,24,decrypt,2.8e-06,16
+AES-256-GCM,10000,25,encrypt,2.8e-06,16
+AES-256-GCM,10000,25,decrypt,2.7e-06,16
+AES-256-GCM,10000,26,encrypt,2.8e-06,16
+AES-256-GCM,10000,26,decrypt,2.8e-06,16
+AES-256-GCM,10000,27,encrypt,2.8e-06,16
+AES-256-GCM,10000,27,decrypt,3.1e-06,16
+AES-256-GCM,10000,28,encrypt,2.8e-06,16
+AES-256-GCM,10000,28,decrypt,2.7e-06,16
+AES-256-GCM,10000,29,encrypt,2.7e-06,16
+AES-256-GCM,10000,29,decrypt,2.7e-06,16
+ChaCha20 (raw),10000,0,encrypt,5.9e-06,0
+ChaCha20 (raw),10000,0,decrypt,6e-06,0
+ChaCha20 (raw),10000,1,encrypt,8.5e-06,0
+ChaCha20 (raw),10000,1,decrypt,6.7e-06,0
+ChaCha20 (raw),10000,2,encrypt,7.1e-06,0
+ChaCha20 (raw),10000,2,decrypt,6.9e-06,0
+ChaCha20 (raw),10000,3,encrypt,6.9e-06,0
+ChaCha20 (raw),10000,3,decrypt,6.6e-06,0
+ChaCha20 (raw),10000,4,encrypt,6.9e-06,0
+ChaCha20 (raw),10000,4,decrypt,7e-06,0
+ChaCha20 (raw),10000,5,encrypt,6.7e-06,0
+ChaCha20 (raw),10000,5,decrypt,6.9e-06,0
+ChaCha20 (raw),10000,6,encrypt,6.9e-06,0
+ChaCha20 (raw),10000,6,decrypt,6.8e-06,0
+ChaCha20 (raw),10000,7,encrypt,6.8e-06,0
+ChaCha20 (raw),10000,7,decrypt,6.8e-06,0
+ChaCha20 (raw),10000,8,encrypt,7e-06,0
+ChaCha20 (raw),10000,8,decrypt,6.6e-06,0
+ChaCha20 (raw),10000,9,encrypt,6.7e-06,0
+ChaCha20 (raw),10000,9,decrypt,6.8e-06,0
+ChaCha20 (raw),10000,10,encrypt,6.9e-06,0
+ChaCha20 (raw),10000,10,decrypt,6.7e-06,0
+ChaCha20 (raw),10000,11,encrypt,6.9e-06,0
+ChaCha20 (raw),10000,11,decrypt,7e-06,0
+ChaCha20 (raw),10000,12,encrypt,7.3e-06,0
+ChaCha20 (raw),10000,12,decrypt,6.7e-06,0
+ChaCha20 (raw),10000,13,encrypt,6.9e-06,0
+ChaCha20 (raw),10000,13,decrypt,7.4e-06,0
+ChaCha20 (raw),10000,14,encrypt,5.9e-06,0
+ChaCha20 (raw),10000,14,decrypt,5.8e-06,0
+ChaCha20 (raw),10000,15,encrypt,5.9e-06,0
+ChaCha20 (raw),10000,15,decrypt,5.8e-06,0
+ChaCha20 (raw),10000,16,encrypt,6e-06,0
+ChaCha20 (raw),10000,16,decrypt,5.7e-06,0
+ChaCha20 (raw),10000,17,encrypt,5.9e-06,0
+ChaCha20 (raw),10000,17,decrypt,5.7e-06,0
+ChaCha20 (raw),10000,18,encrypt,5.8e-06,0
+ChaCha20 (raw),10000,18,decrypt,5.7e-06,0
+ChaCha20 (raw),10000,19,encrypt,5.9e-06,0
+ChaCha20 (raw),10000,19,decrypt,5.9e-06,0
+ChaCha20 (raw),10000,20,encrypt,6e-06,0
+ChaCha20 (raw),10000,20,decrypt,5.9e-06,0
+ChaCha20 (raw),10000,21,encrypt,6.5e-06,0
+ChaCha20 (raw),10000,21,decrypt,5.6e-06,0
+ChaCha20 (raw),10000,22,encrypt,6.2e-06,0
+ChaCha20 (raw),10000,22,decrypt,5.8e-06,0
+ChaCha20 (raw),10000,23,encrypt,6e-06,0
+ChaCha20 (raw),10000,23,decrypt,5.9e-06,0
+ChaCha20 (raw),10000,24,encrypt,6.3e-06,0
+ChaCha20 (raw),10000,24,decrypt,5.8e-06,0
+ChaCha20 (raw),10000,25,encrypt,6.1e-06,0
+ChaCha20 (raw),10000,25,decrypt,6e-06,0
+ChaCha20 (raw),10000,26,encrypt,6.4e-06,0
+ChaCha20 (raw),10000,26,decrypt,6e-06,0
+ChaCha20 (raw),10000,27,encrypt,6e-06,0
+ChaCha20 (raw),10000,27,decrypt,6e-06,0
+ChaCha20 (raw),10000,28,encrypt,6.1e-06,0
+ChaCha20 (raw),10000,28,decrypt,5.9e-06,0
+ChaCha20 (raw),10000,29,encrypt,6e-06,0
+ChaCha20 (raw),10000,29,decrypt,5.7e-06,0
+ChaCha20-Poly1305,10000,0,encrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,0,decrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,1,encrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,1,decrypt,5.4e-06,16
+ChaCha20-Poly1305,10000,2,encrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,2,decrypt,5.6e-06,16
+ChaCha20-Poly1305,10000,3,encrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,3,decrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,4,encrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,4,decrypt,5.6e-06,16
+ChaCha20-Poly1305,10000,5,encrypt,5.7e-06,16
+ChaCha20-Poly1305,10000,5,decrypt,6e-06,16
+ChaCha20-Poly1305,10000,6,encrypt,5.4e-06,16
+ChaCha20-Poly1305,10000,6,decrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,7,encrypt,5.6e-06,16
+ChaCha20-Poly1305,10000,7,decrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,8,encrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,8,decrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,9,encrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,9,decrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,10,encrypt,5.6e-06,16
+ChaCha20-Poly1305,10000,10,decrypt,5.4e-06,16
+ChaCha20-Poly1305,10000,11,encrypt,5.5e-06,16
+ChaCha20-Poly1305,10000,11,decrypt,6.6e-06,16
+ChaCha20-Poly1305,10000,12,encrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,12,decrypt,5e-06,16
+ChaCha20-Poly1305,10000,13,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,13,decrypt,5e-06,16
+ChaCha20-Poly1305,10000,14,encrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,14,decrypt,5e-06,16
+ChaCha20-Poly1305,10000,15,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,15,decrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,16,encrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,16,decrypt,5e-06,16
+ChaCha20-Poly1305,10000,17,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,17,decrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,18,encrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,18,decrypt,5e-06,16
+ChaCha20-Poly1305,10000,19,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,19,decrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,20,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,20,decrypt,5e-06,16
+ChaCha20-Poly1305,10000,21,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,21,decrypt,4.9e-06,16
+ChaCha20-Poly1305,10000,22,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,22,decrypt,5e-06,16
+ChaCha20-Poly1305,10000,23,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,23,decrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,24,encrypt,5.4e-06,16
+ChaCha20-Poly1305,10000,24,decrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,25,encrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,25,decrypt,4.9e-06,16
+ChaCha20-Poly1305,10000,26,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,26,decrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,27,encrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,27,decrypt,5e-06,16
+ChaCha20-Poly1305,10000,28,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,28,decrypt,5.1e-06,16
+ChaCha20-Poly1305,10000,29,encrypt,5e-06,16
+ChaCha20-Poly1305,10000,29,decrypt,5e-06,16
+3DES-CBC,10000,0,encrypt,0.0008121,16
+3DES-CBC,10000,0,decrypt,0.0007208,16
+3DES-CBC,10000,1,encrypt,0.0007105,16
+3DES-CBC,10000,1,decrypt,0.000692,16
+3DES-CBC,10000,2,encrypt,0.0006998,16
+3DES-CBC,10000,2,decrypt,0.0006929,16
+3DES-CBC,10000,3,encrypt,0.0007002,16
+3DES-CBC,10000,3,decrypt,0.0006929,16
+3DES-CBC,10000,4,encrypt,0.0006997,16
+3DES-CBC,10000,4,decrypt,0.0006873,16
+3DES-CBC,10000,5,encrypt,0.0007001,16
+3DES-CBC,10000,5,decrypt,0.0006907,16
+3DES-CBC,10000,6,encrypt,0.0006994,16
+3DES-CBC,10000,6,decrypt,0.0006886,16
+3DES-CBC,10000,7,encrypt,0.0006986,16
+3DES-CBC,10000,7,decrypt,0.0006885,16
+3DES-CBC,10000,8,encrypt,0.0006985,16
+3DES-CBC,10000,8,decrypt,0.0006873,16
+3DES-CBC,10000,9,encrypt,0.0007023,16
+3DES-CBC,10000,9,decrypt,0.0006891,16
+3DES-CBC,10000,10,encrypt,0.0006977,16
+3DES-CBC,10000,10,decrypt,0.0006895,16
+3DES-CBC,10000,11,encrypt,0.0006993,16
+3DES-CBC,10000,11,decrypt,0.0006851,16
+3DES-CBC,10000,12,encrypt,0.0007326,16
+3DES-CBC,10000,12,decrypt,0.0006903,16
+3DES-CBC,10000,13,encrypt,0.0006991,16
+3DES-CBC,10000,13,decrypt,0.000686,16
+3DES-CBC,10000,14,encrypt,0.0006988,16
+3DES-CBC,10000,14,decrypt,0.000686,16
+3DES-CBC,10000,15,encrypt,0.0006946,16
+3DES-CBC,10000,15,decrypt,0.0006872,16
+3DES-CBC,10000,16,encrypt,0.0006984,16
+3DES-CBC,10000,16,decrypt,0.0006862,16
+3DES-CBC,10000,17,encrypt,0.000699,16
+3DES-CBC,10000,17,decrypt,0.0007251,16
+3DES-CBC,10000,18,encrypt,0.0007709,16
+3DES-CBC,10000,18,decrypt,0.0007046,16
+3DES-CBC,10000,19,encrypt,0.0007088,16
+3DES-CBC,10000,19,decrypt,0.0006945,16
+3DES-CBC,10000,20,encrypt,0.000707,16
+3DES-CBC,10000,20,decrypt,0.0006934,16
+3DES-CBC,10000,21,encrypt,0.0007109,16
+3DES-CBC,10000,21,decrypt,0.0007787,16
+3DES-CBC,10000,22,encrypt,0.0007709,16
+3DES-CBC,10000,22,decrypt,0.0007148,16
+3DES-CBC,10000,23,encrypt,0.000708,16
+3DES-CBC,10000,23,decrypt,0.0006937,16
+3DES-CBC,10000,24,encrypt,0.0007065,16
+3DES-CBC,10000,24,decrypt,0.0007355,16
+3DES-CBC,10000,25,encrypt,0.0007122,16
+3DES-CBC,10000,25,decrypt,0.0006936,16
+3DES-CBC,10000,26,encrypt,0.0007058,16
+3DES-CBC,10000,26,decrypt,0.0006937,16
+3DES-CBC,10000,27,encrypt,0.0007066,16
+3DES-CBC,10000,27,decrypt,0.0006898,16
+3DES-CBC,10000,28,encrypt,0.0007015,16
+3DES-CBC,10000,28,decrypt,0.0006901,16
+3DES-CBC,10000,29,encrypt,0.0007005,16
+3DES-CBC,10000,29,decrypt,0.0006912,16
+AES-256-GCM,100000,0,encrypt,1.43e-05,16
+AES-256-GCM,100000,0,decrypt,1.47e-05,16
+AES-256-GCM,100000,1,encrypt,1.57e-05,16
+AES-256-GCM,100000,1,decrypt,1.41e-05,16
+AES-256-GCM,100000,2,encrypt,1.42e-05,16
+AES-256-GCM,100000,2,decrypt,1.41e-05,16
+AES-256-GCM,100000,3,encrypt,1.43e-05,16
+AES-256-GCM,100000,3,decrypt,1.42e-05,16
+AES-256-GCM,100000,4,encrypt,1.42e-05,16
+AES-256-GCM,100000,4,decrypt,1.41e-05,16
+AES-256-GCM,100000,5,encrypt,1.42e-05,16
+AES-256-GCM,100000,5,decrypt,1.41e-05,16
+AES-256-GCM,100000,6,encrypt,1.42e-05,16
+AES-256-GCM,100000,6,decrypt,1.41e-05,16
+AES-256-GCM,100000,7,encrypt,1.42e-05,16
+AES-256-GCM,100000,7,decrypt,1.41e-05,16
+AES-256-GCM,100000,8,encrypt,1.41e-05,16
+AES-256-GCM,100000,8,decrypt,1.42e-05,16
+AES-256-GCM,100000,9,encrypt,1.43e-05,16
+AES-256-GCM,100000,9,decrypt,1.41e-05,16
+AES-256-GCM,100000,10,encrypt,1.43e-05,16
+AES-256-GCM,100000,10,decrypt,1.4e-05,16
+AES-256-GCM,100000,11,encrypt,1.42e-05,16
+AES-256-GCM,100000,11,decrypt,1.41e-05,16
+AES-256-GCM,100000,12,encrypt,1.43e-05,16
+AES-256-GCM,100000,12,decrypt,1.4e-05,16
+AES-256-GCM,100000,13,encrypt,1.42e-05,16
+AES-256-GCM,100000,13,decrypt,1.41e-05,16
+AES-256-GCM,100000,14,encrypt,1.42e-05,16
+AES-256-GCM,100000,14,decrypt,1.41e-05,16
+AES-256-GCM,100000,15,encrypt,1.42e-05,16
+AES-256-GCM,100000,15,decrypt,1.41e-05,16
+AES-256-GCM,100000,16,encrypt,1.42e-05,16
+AES-256-GCM,100000,16,decrypt,1.43e-05,16
+AES-256-GCM,100000,17,encrypt,1.42e-05,16
+AES-256-GCM,100000,17,decrypt,1.41e-05,16
+AES-256-GCM,100000,18,encrypt,1.43e-05,16
+AES-256-GCM,100000,18,decrypt,1.4e-05,16
+AES-256-GCM,100000,19,encrypt,1.42e-05,16
+AES-256-GCM,100000,19,decrypt,1.41e-05,16
+AES-256-GCM,100000,20,encrypt,1.42e-05,16
+AES-256-GCM,100000,20,decrypt,1.41e-05,16
+AES-256-GCM,100000,21,encrypt,1.42e-05,16
+AES-256-GCM,100000,21,decrypt,1.44e-05,16
+AES-256-GCM,100000,22,encrypt,1.43e-05,16
+AES-256-GCM,100000,22,decrypt,1.41e-05,16
+AES-256-GCM,100000,23,encrypt,1.42e-05,16
+AES-256-GCM,100000,23,decrypt,1.4e-05,16
+AES-256-GCM,100000,24,encrypt,1.42e-05,16
+AES-256-GCM,100000,24,decrypt,1.41e-05,16
+AES-256-GCM,100000,25,encrypt,1.41e-05,16
+AES-256-GCM,100000,25,decrypt,1.41e-05,16
+AES-256-GCM,100000,26,encrypt,1.41e-05,16
+AES-256-GCM,100000,26,decrypt,1.41e-05,16
+AES-256-GCM,100000,27,encrypt,1.42e-05,16
+AES-256-GCM,100000,27,decrypt,1.41e-05,16
+AES-256-GCM,100000,28,encrypt,1.42e-05,16
+AES-256-GCM,100000,28,decrypt,1.41e-05,16
+AES-256-GCM,100000,29,encrypt,1.42e-05,16
+AES-256-GCM,100000,29,decrypt,1.41e-05,16
+ChaCha20 (raw),100000,0,encrypt,2.67e-05,0
+ChaCha20 (raw),100000,0,decrypt,2.64e-05,0
+ChaCha20 (raw),100000,1,encrypt,2.68e-05,0
+ChaCha20 (raw),100000,1,decrypt,2.64e-05,0
+ChaCha20 (raw),100000,2,encrypt,2.65e-05,0
+ChaCha20 (raw),100000,2,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,3,encrypt,2.67e-05,0
+ChaCha20 (raw),100000,3,decrypt,2.64e-05,0
+ChaCha20 (raw),100000,4,encrypt,2.67e-05,0
+ChaCha20 (raw),100000,4,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,5,encrypt,2.65e-05,0
+ChaCha20 (raw),100000,5,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,6,encrypt,2.65e-05,0
+ChaCha20 (raw),100000,6,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,7,encrypt,2.68e-05,0
+ChaCha20 (raw),100000,7,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,8,encrypt,2.67e-05,0
+ChaCha20 (raw),100000,8,decrypt,2.66e-05,0
+ChaCha20 (raw),100000,9,encrypt,2.65e-05,0
+ChaCha20 (raw),100000,9,decrypt,2.68e-05,0
+ChaCha20 (raw),100000,10,encrypt,2.66e-05,0
+ChaCha20 (raw),100000,10,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,11,encrypt,2.65e-05,0
+ChaCha20 (raw),100000,11,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,12,encrypt,2.67e-05,0
+ChaCha20 (raw),100000,12,decrypt,2.66e-05,0
+ChaCha20 (raw),100000,13,encrypt,2.66e-05,0
+ChaCha20 (raw),100000,13,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,14,encrypt,2.65e-05,0
+ChaCha20 (raw),100000,14,decrypt,2.64e-05,0
+ChaCha20 (raw),100000,15,encrypt,2.79e-05,0
+ChaCha20 (raw),100000,15,decrypt,2.66e-05,0
+ChaCha20 (raw),100000,16,encrypt,2.68e-05,0
+ChaCha20 (raw),100000,16,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,17,encrypt,0.0001216,0
+ChaCha20 (raw),100000,17,decrypt,2.76e-05,0
+ChaCha20 (raw),100000,18,encrypt,2.67e-05,0
+ChaCha20 (raw),100000,18,decrypt,2.67e-05,0
+ChaCha20 (raw),100000,19,encrypt,2.68e-05,0
+ChaCha20 (raw),100000,19,decrypt,2.65e-05,0
+ChaCha20 (raw),100000,20,encrypt,2.71e-05,0
+ChaCha20 (raw),100000,20,decrypt,2.78e-05,0
+ChaCha20 (raw),100000,21,encrypt,2.85e-05,0
+ChaCha20 (raw),100000,21,decrypt,2.72e-05,0
+ChaCha20 (raw),100000,22,encrypt,2.77e-05,0
+ChaCha20 (raw),100000,22,decrypt,2.75e-05,0
+ChaCha20 (raw),100000,23,encrypt,2.71e-05,0
+ChaCha20 (raw),100000,23,decrypt,2.68e-05,0
+ChaCha20 (raw),100000,24,encrypt,2.7e-05,0
+ChaCha20 (raw),100000,24,decrypt,2.67e-05,0
+ChaCha20 (raw),100000,25,encrypt,2.69e-05,0
+ChaCha20 (raw),100000,25,decrypt,2.76e-05,0
+ChaCha20 (raw),100000,26,encrypt,2.66e-05,0
+ChaCha20 (raw),100000,26,decrypt,2.64e-05,0
+ChaCha20 (raw),100000,27,encrypt,2.74e-05,0
+ChaCha20 (raw),100000,27,decrypt,2.68e-05,0
+ChaCha20 (raw),100000,28,encrypt,2.66e-05,0
+ChaCha20 (raw),100000,28,decrypt,2.64e-05,0
+ChaCha20 (raw),100000,29,encrypt,2.65e-05,0
+ChaCha20 (raw),100000,29,decrypt,2.64e-05,0
+ChaCha20-Poly1305,100000,0,encrypt,3.52e-05,16
+ChaCha20-Poly1305,100000,0,decrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,1,encrypt,3.55e-05,16
+ChaCha20-Poly1305,100000,1,decrypt,3.52e-05,16
+ChaCha20-Poly1305,100000,2,encrypt,3.52e-05,16
+ChaCha20-Poly1305,100000,2,decrypt,3.52e-05,16
+ChaCha20-Poly1305,100000,3,encrypt,3.52e-05,16
+ChaCha20-Poly1305,100000,3,decrypt,3.52e-05,16
+ChaCha20-Poly1305,100000,4,encrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,4,decrypt,3.52e-05,16
+ChaCha20-Poly1305,100000,5,encrypt,3.52e-05,16
+ChaCha20-Poly1305,100000,5,decrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,6,encrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,6,decrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,7,encrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,7,decrypt,3.79e-05,16
+ChaCha20-Poly1305,100000,8,encrypt,3.81e-05,16
+ChaCha20-Poly1305,100000,8,decrypt,3.77e-05,16
+ChaCha20-Poly1305,100000,9,encrypt,3.57e-05,16
+ChaCha20-Poly1305,100000,9,decrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,10,encrypt,3.63e-05,16
+ChaCha20-Poly1305,100000,10,decrypt,3.62e-05,16
+ChaCha20-Poly1305,100000,11,encrypt,3.68e-05,16
+ChaCha20-Poly1305,100000,11,decrypt,3.75e-05,16
+ChaCha20-Poly1305,100000,12,encrypt,3.63e-05,16
+ChaCha20-Poly1305,100000,12,decrypt,3.64e-05,16
+ChaCha20-Poly1305,100000,13,encrypt,3.59e-05,16
+ChaCha20-Poly1305,100000,13,decrypt,3.6e-05,16
+ChaCha20-Poly1305,100000,14,encrypt,3.65e-05,16
+ChaCha20-Poly1305,100000,14,decrypt,3.57e-05,16
+ChaCha20-Poly1305,100000,15,encrypt,3.66e-05,16
+ChaCha20-Poly1305,100000,15,decrypt,3.59e-05,16
+ChaCha20-Poly1305,100000,16,encrypt,3.58e-05,16
+ChaCha20-Poly1305,100000,16,decrypt,3.61e-05,16
+ChaCha20-Poly1305,100000,17,encrypt,3.58e-05,16
+ChaCha20-Poly1305,100000,17,decrypt,3.55e-05,16
+ChaCha20-Poly1305,100000,18,encrypt,3.56e-05,16
+ChaCha20-Poly1305,100000,18,decrypt,3.56e-05,16
+ChaCha20-Poly1305,100000,19,encrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,19,decrypt,3.51e-05,16
+ChaCha20-Poly1305,100000,20,encrypt,3.66e-05,16
+ChaCha20-Poly1305,100000,20,decrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,21,encrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,21,decrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,22,encrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,22,decrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,23,encrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,23,decrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,24,encrypt,3.64e-05,16
+ChaCha20-Poly1305,100000,24,decrypt,3.55e-05,16
+ChaCha20-Poly1305,100000,25,encrypt,3.54e-05,16
+ChaCha20-Poly1305,100000,25,decrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,26,encrypt,3.6e-05,16
+ChaCha20-Poly1305,100000,26,decrypt,3.61e-05,16
+ChaCha20-Poly1305,100000,27,encrypt,3.61e-05,16
+ChaCha20-Poly1305,100000,27,decrypt,3.55e-05,16
+ChaCha20-Poly1305,100000,28,encrypt,3.53e-05,16
+ChaCha20-Poly1305,100000,28,decrypt,3.56e-05,16
+ChaCha20-Poly1305,100000,29,encrypt,3.51e-05,16
+ChaCha20-Poly1305,100000,29,decrypt,3.59e-05,16
+3DES-CBC,100000,0,encrypt,0.0069928,16
+3DES-CBC,100000,0,decrypt,0.0067866,16
+3DES-CBC,100000,1,encrypt,0.0068514,16
+3DES-CBC,100000,1,decrypt,0.0067282,16
+3DES-CBC,100000,2,encrypt,0.0069849,16
+3DES-CBC,100000,2,decrypt,0.006735,16
+3DES-CBC,100000,3,encrypt,0.0068558,16
+3DES-CBC,100000,3,decrypt,0.0068646,16
+3DES-CBC,100000,4,encrypt,0.0068915,16
+3DES-CBC,100000,4,decrypt,0.0068706,16
+3DES-CBC,100000,5,encrypt,0.0069193,16
+3DES-CBC,100000,5,decrypt,0.0069736,16
+3DES-CBC,100000,6,encrypt,0.0069381,16
+3DES-CBC,100000,6,decrypt,0.0068854,16
+3DES-CBC,100000,7,encrypt,0.0069374,16
+3DES-CBC,100000,7,decrypt,0.006773,16
+3DES-CBC,100000,8,encrypt,0.0069527,16
+3DES-CBC,100000,8,decrypt,0.0068171,16
+3DES-CBC,100000,9,encrypt,0.0070419,16
+3DES-CBC,100000,9,decrypt,0.0067727,16
+3DES-CBC,100000,10,encrypt,0.0068546,16
+3DES-CBC,100000,10,decrypt,0.00675,16
+3DES-CBC,100000,11,encrypt,0.0068275,16
+3DES-CBC,100000,11,decrypt,0.0067478,16
+3DES-CBC,100000,12,encrypt,0.0068555,16
+3DES-CBC,100000,12,decrypt,0.0067835,16
+3DES-CBC,100000,13,encrypt,0.0070073,16
+3DES-CBC,100000,13,decrypt,0.0068271,16
+3DES-CBC,100000,14,encrypt,0.0068997,16
+3DES-CBC,100000,14,decrypt,0.0067532,16
+3DES-CBC,100000,15,encrypt,0.0068612,16
+3DES-CBC,100000,15,decrypt,0.006804,16
+3DES-CBC,100000,16,encrypt,0.0068861,16
+3DES-CBC,100000,16,decrypt,0.0067418,16
+3DES-CBC,100000,17,encrypt,0.0070136,16
+3DES-CBC,100000,17,decrypt,0.0067822,16
+3DES-CBC,100000,18,encrypt,0.0069142,16
+3DES-CBC,100000,18,decrypt,0.0068075,16
+3DES-CBC,100000,19,encrypt,0.0070403,16
+3DES-CBC,100000,19,decrypt,0.0068104,16
+3DES-CBC,100000,20,encrypt,0.0068718,16
+3DES-CBC,100000,20,decrypt,0.0068534,16
+3DES-CBC,100000,21,encrypt,0.0069251,16
+3DES-CBC,100000,21,decrypt,0.0068656,16
+3DES-CBC,100000,22,encrypt,0.0069437,16
+3DES-CBC,100000,22,decrypt,0.0069186,16
+3DES-CBC,100000,23,encrypt,0.0068924,16
+3DES-CBC,100000,23,decrypt,0.0067205,16
+3DES-CBC,100000,24,encrypt,0.0069962,16
+3DES-CBC,100000,24,decrypt,0.0067667,16
+3DES-CBC,100000,25,encrypt,0.007064,16
+3DES-CBC,100000,25,decrypt,0.0068908,16
+3DES-CBC,100000,26,encrypt,0.0070357,16
+3DES-CBC,100000,26,decrypt,0.0067948,16
+3DES-CBC,100000,27,encrypt,0.007178,16
+3DES-CBC,100000,27,decrypt,0.0068219,16
+3DES-CBC,100000,28,encrypt,0.0070471,16
+3DES-CBC,100000,28,decrypt,0.0068973,16
+3DES-CBC,100000,29,encrypt,0.0069584,16
+3DES-CBC,100000,29,decrypt,0.0067764,16
+AES-256-GCM,1000000,0,encrypt,0.0005279,16
+AES-256-GCM,1000000,0,decrypt,0.0005442,16
+AES-256-GCM,1000000,1,encrypt,0.0005362,16
+AES-256-GCM,1000000,1,decrypt,0.0005403,16
+AES-256-GCM,1000000,2,encrypt,0.0004219,16
+AES-256-GCM,1000000,2,decrypt,0.0004177,16
+AES-256-GCM,1000000,3,encrypt,0.0003884,16
+AES-256-GCM,1000000,3,decrypt,0.0003902,16
+AES-256-GCM,1000000,4,encrypt,0.0005185,16
+AES-256-GCM,1000000,4,decrypt,0.0004413,16
+AES-256-GCM,1000000,5,encrypt,0.0004341,16
+AES-256-GCM,1000000,5,decrypt,0.0004663,16
+AES-256-GCM,1000000,6,encrypt,0.0004054,16
+AES-256-GCM,1000000,6,decrypt,0.0004214,16
+AES-256-GCM,1000000,7,encrypt,0.0004045,16
+AES-256-GCM,1000000,7,decrypt,0.0004264,16
+AES-256-GCM,1000000,8,encrypt,0.0004838,16
+AES-256-GCM,1000000,8,decrypt,0.0005103,16
+AES-256-GCM,1000000,9,encrypt,0.0004717,16
+AES-256-GCM,1000000,9,decrypt,0.0005114,16
+AES-256-GCM,1000000,10,encrypt,0.0004544,16
+AES-256-GCM,1000000,10,decrypt,0.0005363,16
+AES-256-GCM,1000000,11,encrypt,0.0004736,16
+AES-256-GCM,1000000,11,decrypt,0.0004398,16
+AES-256-GCM,1000000,12,encrypt,0.0003982,16
+AES-256-GCM,1000000,12,decrypt,0.0004249,16
+AES-256-GCM,1000000,13,encrypt,0.0003975,16
+AES-256-GCM,1000000,13,decrypt,0.0004847,16
+AES-256-GCM,1000000,14,encrypt,0.0004369,16
+AES-256-GCM,1000000,14,decrypt,0.0004409,16
+AES-256-GCM,1000000,15,encrypt,0.0003962,16
+AES-256-GCM,1000000,15,decrypt,0.0004133,16
+AES-256-GCM,1000000,16,encrypt,0.0004077,16
+AES-256-GCM,1000000,16,decrypt,0.0004544,16
+AES-256-GCM,1000000,17,encrypt,0.0004456,16
+AES-256-GCM,1000000,17,decrypt,0.0006891,16
+AES-256-GCM,1000000,18,encrypt,0.0005042,16
+AES-256-GCM,1000000,18,decrypt,0.0004812,16
+AES-256-GCM,1000000,19,encrypt,0.0005636,16
+AES-256-GCM,1000000,19,decrypt,0.0004693,16
+AES-256-GCM,1000000,20,encrypt,0.0004276,16
+AES-256-GCM,1000000,20,decrypt,0.0004162,16
+AES-256-GCM,1000000,21,encrypt,0.0003958,16
+AES-256-GCM,1000000,21,decrypt,0.0004336,16
+AES-256-GCM,1000000,22,encrypt,0.0003971,16
+AES-256-GCM,1000000,22,decrypt,0.0004047,16
+AES-256-GCM,1000000,23,encrypt,0.0003918,16
+AES-256-GCM,1000000,23,decrypt,0.0004007,16
+AES-256-GCM,1000000,24,encrypt,0.0004058,16
+AES-256-GCM,1000000,24,decrypt,0.0004032,16
+AES-256-GCM,1000000,25,encrypt,0.0004018,16
+AES-256-GCM,1000000,25,decrypt,0.000505,16
+AES-256-GCM,1000000,26,encrypt,0.0004784,16
+AES-256-GCM,1000000,26,decrypt,0.0005233,16
+AES-256-GCM,1000000,27,encrypt,0.000516,16
+AES-256-GCM,1000000,27,decrypt,0.0005074,16
+AES-256-GCM,1000000,28,encrypt,0.0004437,16
+AES-256-GCM,1000000,28,decrypt,0.0004619,16
+AES-256-GCM,1000000,29,encrypt,0.0004092,16
+AES-256-GCM,1000000,29,decrypt,0.0004496,16
+ChaCha20 (raw),1000000,0,encrypt,0.0008358,0
+ChaCha20 (raw),1000000,0,decrypt,0.0006087,0
+ChaCha20 (raw),1000000,1,encrypt,0.0005712,0
+ChaCha20 (raw),1000000,1,decrypt,0.0005266,0
+ChaCha20 (raw),1000000,2,encrypt,0.000519,0
+ChaCha20 (raw),1000000,2,decrypt,0.000629,0
+ChaCha20 (raw),1000000,3,encrypt,0.0005285,0
+ChaCha20 (raw),1000000,3,decrypt,0.0005101,0
+ChaCha20 (raw),1000000,4,encrypt,0.000522,0
+ChaCha20 (raw),1000000,4,decrypt,0.0005053,0
+ChaCha20 (raw),1000000,5,encrypt,0.0005094,0
+ChaCha20 (raw),1000000,5,decrypt,0.0005057,0
+ChaCha20 (raw),1000000,6,encrypt,0.0004992,0
+ChaCha20 (raw),1000000,6,decrypt,0.0005373,0
+ChaCha20 (raw),1000000,7,encrypt,0.0005488,0
+ChaCha20 (raw),1000000,7,decrypt,0.0005864,0
+ChaCha20 (raw),1000000,8,encrypt,0.0005707,0
+ChaCha20 (raw),1000000,8,decrypt,0.0005342,0
+ChaCha20 (raw),1000000,9,encrypt,0.0005305,0
+ChaCha20 (raw),1000000,9,decrypt,0.0005461,0
+ChaCha20 (raw),1000000,10,encrypt,0.0005337,0
+ChaCha20 (raw),1000000,10,decrypt,0.0008129,0
+ChaCha20 (raw),1000000,11,encrypt,0.0005212,0
+ChaCha20 (raw),1000000,11,decrypt,0.0005095,0
+ChaCha20 (raw),1000000,12,encrypt,0.0005104,0
+ChaCha20 (raw),1000000,12,decrypt,0.0005058,0
+ChaCha20 (raw),1000000,13,encrypt,0.0005985,0
+ChaCha20 (raw),1000000,13,decrypt,0.0005504,0
+ChaCha20 (raw),1000000,14,encrypt,0.0005088,0
+ChaCha20 (raw),1000000,14,decrypt,0.0005067,0
+ChaCha20 (raw),1000000,15,encrypt,0.0005465,0
+ChaCha20 (raw),1000000,15,decrypt,0.0005636,0
+ChaCha20 (raw),1000000,16,encrypt,0.0005956,0
+ChaCha20 (raw),1000000,16,decrypt,0.000554,0
+ChaCha20 (raw),1000000,17,encrypt,0.0005367,0
+ChaCha20 (raw),1000000,17,decrypt,0.0005319,0
+ChaCha20 (raw),1000000,18,encrypt,0.0005268,0
+ChaCha20 (raw),1000000,18,decrypt,0.0005071,0
+ChaCha20 (raw),1000000,19,encrypt,0.0005479,0
+ChaCha20 (raw),1000000,19,decrypt,0.000509,0
+ChaCha20 (raw),1000000,20,encrypt,0.0004978,0
+ChaCha20 (raw),1000000,20,decrypt,0.0005291,0
+ChaCha20 (raw),1000000,21,encrypt,0.0005109,0
+ChaCha20 (raw),1000000,21,decrypt,0.0005008,0
+ChaCha20 (raw),1000000,22,encrypt,0.0005097,0
+ChaCha20 (raw),1000000,22,decrypt,0.0005062,0
+ChaCha20 (raw),1000000,23,encrypt,0.000523,0
+ChaCha20 (raw),1000000,23,decrypt,0.0005399,0
+ChaCha20 (raw),1000000,24,encrypt,0.0006197,0
+ChaCha20 (raw),1000000,24,decrypt,0.0008284,0
+ChaCha20 (raw),1000000,25,encrypt,0.0007016,0
+ChaCha20 (raw),1000000,25,decrypt,0.0005593,0
+ChaCha20 (raw),1000000,26,encrypt,0.0007799,0
+ChaCha20 (raw),1000000,26,decrypt,0.0005644,0
+ChaCha20 (raw),1000000,27,encrypt,0.0005397,0
+ChaCha20 (raw),1000000,27,decrypt,0.0005368,0
+ChaCha20 (raw),1000000,28,encrypt,0.0005177,0
+ChaCha20 (raw),1000000,28,decrypt,0.0005114,0
+ChaCha20 (raw),1000000,29,encrypt,0.0006228,0
+ChaCha20 (raw),1000000,29,decrypt,0.0005401,0
+ChaCha20-Poly1305,1000000,0,encrypt,0.0021025,16
+ChaCha20-Poly1305,1000000,0,decrypt,0.0019605,16
+ChaCha20-Poly1305,1000000,1,encrypt,0.001633,16
+ChaCha20-Poly1305,1000000,1,decrypt,0.0027654,16
+ChaCha20-Poly1305,1000000,2,encrypt,0.0014465,16
+ChaCha20-Poly1305,1000000,2,decrypt,0.0011947,16
+ChaCha20-Poly1305,1000000,3,encrypt,0.0007014,16
+ChaCha20-Poly1305,1000000,3,decrypt,0.0008315,16
+ChaCha20-Poly1305,1000000,4,encrypt,0.0006666,16
+ChaCha20-Poly1305,1000000,4,decrypt,0.0006936,16
+ChaCha20-Poly1305,1000000,5,encrypt,0.0006782,16
+ChaCha20-Poly1305,1000000,5,decrypt,0.0007959,16
+ChaCha20-Poly1305,1000000,6,encrypt,0.0007772,16
+ChaCha20-Poly1305,1000000,6,decrypt,0.0008398,16
+ChaCha20-Poly1305,1000000,7,encrypt,0.0008243,16
+ChaCha20-Poly1305,1000000,7,decrypt,0.0008307,16
+ChaCha20-Poly1305,1000000,8,encrypt,0.0007887,16
+ChaCha20-Poly1305,1000000,8,decrypt,0.0009064,16
+ChaCha20-Poly1305,1000000,9,encrypt,0.0008191,16
+ChaCha20-Poly1305,1000000,9,decrypt,0.0007482,16
+ChaCha20-Poly1305,1000000,10,encrypt,0.0006252,16
+ChaCha20-Poly1305,1000000,10,decrypt,0.0007159,16
+ChaCha20-Poly1305,1000000,11,encrypt,0.0006519,16
+ChaCha20-Poly1305,1000000,11,decrypt,0.0006903,16
+ChaCha20-Poly1305,1000000,12,encrypt,0.0006902,16
+ChaCha20-Poly1305,1000000,12,decrypt,0.0006959,16
+ChaCha20-Poly1305,1000000,13,encrypt,0.0006923,16
+ChaCha20-Poly1305,1000000,13,decrypt,0.0008025,16
+ChaCha20-Poly1305,1000000,14,encrypt,0.0007318,16
+ChaCha20-Poly1305,1000000,14,decrypt,0.0009597,16
+ChaCha20-Poly1305,1000000,15,encrypt,0.0008488,16
+ChaCha20-Poly1305,1000000,15,decrypt,0.0010748,16
+ChaCha20-Poly1305,1000000,16,encrypt,0.0010875,16
+ChaCha20-Poly1305,1000000,16,decrypt,0.0010042,16
+ChaCha20-Poly1305,1000000,17,encrypt,0.0007167,16
+ChaCha20-Poly1305,1000000,17,decrypt,0.0008838,16
+ChaCha20-Poly1305,1000000,18,encrypt,0.0007792,16
+ChaCha20-Poly1305,1000000,18,decrypt,0.0009043,16
+ChaCha20-Poly1305,1000000,19,encrypt,0.0007897,16
+ChaCha20-Poly1305,1000000,19,decrypt,0.0008406,16
+ChaCha20-Poly1305,1000000,20,encrypt,0.0007481,16
+ChaCha20-Poly1305,1000000,20,decrypt,0.0007966,16
+ChaCha20-Poly1305,1000000,21,encrypt,0.0007029,16
+ChaCha20-Poly1305,1000000,21,decrypt,0.0007652,16
+ChaCha20-Poly1305,1000000,22,encrypt,0.0007577,16
+ChaCha20-Poly1305,1000000,22,decrypt,0.0007006,16
+ChaCha20-Poly1305,1000000,23,encrypt,0.0007082,16
+ChaCha20-Poly1305,1000000,23,decrypt,0.0007625,16
+ChaCha20-Poly1305,1000000,24,encrypt,0.0006872,16
+ChaCha20-Poly1305,1000000,24,decrypt,0.0007378,16
+ChaCha20-Poly1305,1000000,25,encrypt,0.0006532,16
+ChaCha20-Poly1305,1000000,25,decrypt,0.0006836,16
+ChaCha20-Poly1305,1000000,26,encrypt,0.0007088,16
+ChaCha20-Poly1305,1000000,26,decrypt,0.0006454,16
+ChaCha20-Poly1305,1000000,27,encrypt,0.0005889,16
+ChaCha20-Poly1305,1000000,27,decrypt,0.0006079,16
+ChaCha20-Poly1305,1000000,28,encrypt,0.0006282,16
+ChaCha20-Poly1305,1000000,28,decrypt,0.0006846,16
+ChaCha20-Poly1305,1000000,29,encrypt,0.0006431,16
+ChaCha20-Poly1305,1000000,29,decrypt,0.0006585,16
+3DES-CBC,1000000,0,encrypt,0.0690208,16
+3DES-CBC,1000000,0,decrypt,0.0682215,16
+3DES-CBC,1000000,1,encrypt,0.0691416,16
+3DES-CBC,1000000,1,decrypt,0.0682427,16
+3DES-CBC,1000000,2,encrypt,0.069335,16
+3DES-CBC,1000000,2,decrypt,0.0684186,16
+3DES-CBC,1000000,3,encrypt,0.0690778,16
+3DES-CBC,1000000,3,decrypt,0.0680908,16
+3DES-CBC,1000000,4,encrypt,0.0689138,16
+3DES-CBC,1000000,4,decrypt,0.0684681,16
+3DES-CBC,1000000,5,encrypt,0.0688562,16
+3DES-CBC,1000000,5,decrypt,0.0681467,16
+3DES-CBC,1000000,6,encrypt,0.068734,16
+3DES-CBC,1000000,6,decrypt,0.0678325,16
+3DES-CBC,1000000,7,encrypt,0.0691424,16
+3DES-CBC,1000000,7,decrypt,0.0681229,16
+3DES-CBC,1000000,8,encrypt,0.0702589,16
+3DES-CBC,1000000,8,decrypt,0.068211,16
+3DES-CBC,1000000,9,encrypt,0.0691644,16
+3DES-CBC,1000000,9,decrypt,0.0683248,16
+3DES-CBC,1000000,10,encrypt,0.068818,16
+3DES-CBC,1000000,10,decrypt,0.0677786,16
+3DES-CBC,1000000,11,encrypt,0.0696405,16
+3DES-CBC,1000000,11,decrypt,0.0685341,16
+3DES-CBC,1000000,12,encrypt,0.0690846,16
+3DES-CBC,1000000,12,decrypt,0.0681801,16
+3DES-CBC,1000000,13,encrypt,0.069695,16
+3DES-CBC,1000000,13,decrypt,0.0687856,16
+3DES-CBC,1000000,14,encrypt,0.0689709,16
+3DES-CBC,1000000,14,decrypt,0.0680598,16
+3DES-CBC,1000000,15,encrypt,0.0688066,16
+3DES-CBC,1000000,15,decrypt,0.0683908,16
+3DES-CBC,1000000,16,encrypt,0.0689388,16
+3DES-CBC,1000000,16,decrypt,0.0685779,16
+3DES-CBC,1000000,17,encrypt,0.0689601,16
+3DES-CBC,1000000,17,decrypt,0.0677598,16
+3DES-CBC,1000000,18,encrypt,0.0689604,16
+3DES-CBC,1000000,18,decrypt,0.067966,16
+3DES-CBC,1000000,19,encrypt,0.0805578,16
+3DES-CBC,1000000,19,decrypt,0.0687921,16
+3DES-CBC,1000000,20,encrypt,0.0698811,16
+3DES-CBC,1000000,20,decrypt,0.0682978,16
+3DES-CBC,1000000,21,encrypt,0.068894,16
+3DES-CBC,1000000,21,decrypt,0.068438,16
+3DES-CBC,1000000,22,encrypt,0.0701452,16
+3DES-CBC,1000000,22,decrypt,0.0679513,16
+3DES-CBC,1000000,23,encrypt,0.0688862,16
+3DES-CBC,1000000,23,decrypt,0.0757225,16
+3DES-CBC,1000000,24,encrypt,0.068577,16
+3DES-CBC,1000000,24,decrypt,0.0684445,16
+3DES-CBC,1000000,25,encrypt,0.0690669,16
+3DES-CBC,1000000,25,decrypt,0.0684999,16
+3DES-CBC,1000000,26,encrypt,0.0689085,16
+3DES-CBC,1000000,26,decrypt,0.0680492,16
+3DES-CBC,1000000,27,encrypt,0.0690416,16
+3DES-CBC,1000000,27,decrypt,0.0683129,16
+3DES-CBC,1000000,28,encrypt,0.0689695,16
+3DES-CBC,1000000,28,decrypt,0.0678848,16
+3DES-CBC,1000000,29,encrypt,0.0688798,16
+3DES-CBC,1000000,29,decrypt,0.0677269,16
+AES-256-GCM,10000000,0,encrypt,0.0040725,16
+AES-256-GCM,10000000,0,decrypt,0.003699,16
+AES-256-GCM,10000000,1,encrypt,0.0042372,16
+AES-256-GCM,10000000,1,decrypt,0.0039053,16
+AES-256-GCM,10000000,2,encrypt,0.003495,16
+AES-256-GCM,10000000,2,decrypt,0.0035517,16
+AES-256-GCM,10000000,3,encrypt,0.0037536,16
+AES-256-GCM,10000000,3,decrypt,0.0037039,16
+AES-256-GCM,10000000,4,encrypt,0.0038278,16
+AES-256-GCM,10000000,4,decrypt,0.0036107,16
+AES-256-GCM,10000000,5,encrypt,0.0037925,16
+AES-256-GCM,10000000,5,decrypt,0.0035864,16
+AES-256-GCM,10000000,6,encrypt,0.0039969,16
+AES-256-GCM,10000000,6,decrypt,0.0036364,16
+AES-256-GCM,10000000,7,encrypt,0.003738,16
+AES-256-GCM,10000000,7,decrypt,0.0039962,16
+AES-256-GCM,10000000,8,encrypt,0.0035936,16
+AES-256-GCM,10000000,8,decrypt,0.0039668,16
+AES-256-GCM,10000000,9,encrypt,0.0034723,16
+AES-256-GCM,10000000,9,decrypt,0.0040526,16
+AES-256-GCM,10000000,10,encrypt,0.0037917,16
+AES-256-GCM,10000000,10,decrypt,0.0036038,16
+AES-256-GCM,10000000,11,encrypt,0.0037318,16
+AES-256-GCM,10000000,11,decrypt,0.0034834,16
+AES-256-GCM,10000000,12,encrypt,0.0034798,16
+AES-256-GCM,10000000,12,decrypt,0.003654,16
+AES-256-GCM,10000000,13,encrypt,0.0032786,16
+AES-256-GCM,10000000,13,decrypt,0.0030186,16
+AES-256-GCM,10000000,14,encrypt,0.0032003,16
+AES-256-GCM,10000000,14,decrypt,0.003067,16
+AES-256-GCM,10000000,15,encrypt,0.0031381,16
+AES-256-GCM,10000000,15,decrypt,0.0032505,16
+AES-256-GCM,10000000,16,encrypt,0.0031186,16
+AES-256-GCM,10000000,16,decrypt,0.0030603,16
+AES-256-GCM,10000000,17,encrypt,0.0033692,16
+AES-256-GCM,10000000,17,decrypt,0.003086,16
+AES-256-GCM,10000000,18,encrypt,0.0033129,16
+AES-256-GCM,10000000,18,decrypt,0.0031535,16
+AES-256-GCM,10000000,19,encrypt,0.0031912,16
+AES-256-GCM,10000000,19,decrypt,0.0031978,16
+AES-256-GCM,10000000,20,encrypt,0.0031294,16
+AES-256-GCM,10000000,20,decrypt,0.0031935,16
+AES-256-GCM,10000000,21,encrypt,0.003168,16
+AES-256-GCM,10000000,21,decrypt,0.0030383,16
+AES-256-GCM,10000000,22,encrypt,0.0033189,16
+AES-256-GCM,10000000,22,decrypt,0.0030202,16
+AES-256-GCM,10000000,23,encrypt,0.0033389,16
+AES-256-GCM,10000000,23,decrypt,0.0031085,16
+AES-256-GCM,10000000,24,encrypt,0.0031347,16
+AES-256-GCM,10000000,24,decrypt,0.0038969,16
+AES-256-GCM,10000000,25,encrypt,0.0034417,16
+AES-256-GCM,10000000,25,decrypt,0.0036988,16
+AES-256-GCM,10000000,26,encrypt,0.0034932,16
+AES-256-GCM,10000000,26,decrypt,0.0034017,16
+AES-256-GCM,10000000,27,encrypt,0.0035344,16
+AES-256-GCM,10000000,27,decrypt,0.0030205,16
+AES-256-GCM,10000000,28,encrypt,0.0035331,16
+AES-256-GCM,10000000,28,decrypt,0.0033796,16
+AES-256-GCM,10000000,29,encrypt,0.0033949,16
+AES-256-GCM,10000000,29,decrypt,0.0032517,16
+ChaCha20 (raw),10000000,0,encrypt,0.0043777,0
+ChaCha20 (raw),10000000,0,decrypt,0.0044951,0
+ChaCha20 (raw),10000000,1,encrypt,0.0042986,0
+ChaCha20 (raw),10000000,1,decrypt,0.0045903,0
+ChaCha20 (raw),10000000,2,encrypt,0.0043045,0
+ChaCha20 (raw),10000000,2,decrypt,0.0050238,0
+ChaCha20 (raw),10000000,3,encrypt,0.0040666,0
+ChaCha20 (raw),10000000,3,decrypt,0.0041887,0
+ChaCha20 (raw),10000000,4,encrypt,0.0041113,0
+ChaCha20 (raw),10000000,4,decrypt,0.0045742,0
+ChaCha20 (raw),10000000,5,encrypt,0.0042934,0
+ChaCha20 (raw),10000000,5,decrypt,0.0047078,0
+ChaCha20 (raw),10000000,6,encrypt,0.0043148,0
+ChaCha20 (raw),10000000,6,decrypt,0.0045814,0
+ChaCha20 (raw),10000000,7,encrypt,0.0044344,0
+ChaCha20 (raw),10000000,7,decrypt,0.0045761,0
+ChaCha20 (raw),10000000,8,encrypt,0.0043372,0
+ChaCha20 (raw),10000000,8,decrypt,0.004653,0
+ChaCha20 (raw),10000000,9,encrypt,0.0042902,0
+ChaCha20 (raw),10000000,9,decrypt,0.0048948,0
+ChaCha20 (raw),10000000,10,encrypt,0.0041486,0
+ChaCha20 (raw),10000000,10,decrypt,0.0041175,0
+ChaCha20 (raw),10000000,11,encrypt,0.0046392,0
+ChaCha20 (raw),10000000,11,decrypt,0.0046787,0
+ChaCha20 (raw),10000000,12,encrypt,0.0042811,0
+ChaCha20 (raw),10000000,12,decrypt,0.0044732,0
+ChaCha20 (raw),10000000,13,encrypt,0.0044263,0
+ChaCha20 (raw),10000000,13,decrypt,0.0045291,0
+ChaCha20 (raw),10000000,14,encrypt,0.0044074,0
+ChaCha20 (raw),10000000,14,decrypt,0.0049124,0
+ChaCha20 (raw),10000000,15,encrypt,0.0041199,0
+ChaCha20 (raw),10000000,15,decrypt,0.004056,0
+ChaCha20 (raw),10000000,16,encrypt,0.0041002,0
+ChaCha20 (raw),10000000,16,decrypt,0.0040569,0
+ChaCha20 (raw),10000000,17,encrypt,0.0041063,0
+ChaCha20 (raw),10000000,17,decrypt,0.0042141,0
+ChaCha20 (raw),10000000,18,encrypt,0.0041283,0
+ChaCha20 (raw),10000000,18,decrypt,0.0043107,0
+ChaCha20 (raw),10000000,19,encrypt,0.0045291,0
+ChaCha20 (raw),10000000,19,decrypt,0.0042265,0
+ChaCha20 (raw),10000000,20,encrypt,0.0042018,0
+ChaCha20 (raw),10000000,20,decrypt,0.0044247,0
+ChaCha20 (raw),10000000,21,encrypt,0.0042078,0
+ChaCha20 (raw),10000000,21,decrypt,0.0049292,0
+ChaCha20 (raw),10000000,22,encrypt,0.0048205,0
+ChaCha20 (raw),10000000,22,decrypt,0.0043138,0
+ChaCha20 (raw),10000000,23,encrypt,0.0042689,0
+ChaCha20 (raw),10000000,23,decrypt,0.0043585,0
+ChaCha20 (raw),10000000,24,encrypt,0.0044777,0
+ChaCha20 (raw),10000000,24,decrypt,0.004094,0
+ChaCha20 (raw),10000000,25,encrypt,0.0043528,0
+ChaCha20 (raw),10000000,25,decrypt,0.0043416,0
+ChaCha20 (raw),10000000,26,encrypt,0.0044079,0
+ChaCha20 (raw),10000000,26,decrypt,0.0041434,0
+ChaCha20 (raw),10000000,27,encrypt,0.004261,0
+ChaCha20 (raw),10000000,27,decrypt,0.0045758,0
+ChaCha20 (raw),10000000,28,encrypt,0.004625,0
+ChaCha20 (raw),10000000,28,decrypt,0.0046002,0
+ChaCha20 (raw),10000000,29,encrypt,0.0045707,0
+ChaCha20 (raw),10000000,29,decrypt,0.0050379,0
+ChaCha20-Poly1305,10000000,0,encrypt,0.0054153,16
+ChaCha20-Poly1305,10000000,0,decrypt,0.0055101,16
+ChaCha20-Poly1305,10000000,1,encrypt,0.0056128,16
+ChaCha20-Poly1305,10000000,1,decrypt,0.005426,16
+ChaCha20-Poly1305,10000000,2,encrypt,0.0052912,16
+ChaCha20-Poly1305,10000000,2,decrypt,0.0058953,16
+ChaCha20-Poly1305,10000000,3,encrypt,0.0060952,16
+ChaCha20-Poly1305,10000000,3,decrypt,0.0053517,16
+ChaCha20-Poly1305,10000000,4,encrypt,0.0056087,16
+ChaCha20-Poly1305,10000000,4,decrypt,0.0052649,16
+ChaCha20-Poly1305,10000000,5,encrypt,0.0053746,16
+ChaCha20-Poly1305,10000000,5,decrypt,0.0058278,16
+ChaCha20-Poly1305,10000000,6,encrypt,0.0055619,16
+ChaCha20-Poly1305,10000000,6,decrypt,0.0064343,16
+ChaCha20-Poly1305,10000000,7,encrypt,0.0055055,16
+ChaCha20-Poly1305,10000000,7,decrypt,0.0052132,16
+ChaCha20-Poly1305,10000000,8,encrypt,0.0058868,16
+ChaCha20-Poly1305,10000000,8,decrypt,0.0051695,16
+ChaCha20-Poly1305,10000000,9,encrypt,0.0057002,16
+ChaCha20-Poly1305,10000000,9,decrypt,0.0057125,16
+ChaCha20-Poly1305,10000000,10,encrypt,0.0057236,16
+ChaCha20-Poly1305,10000000,10,decrypt,0.0052091,16
+ChaCha20-Poly1305,10000000,11,encrypt,0.0054387,16
+ChaCha20-Poly1305,10000000,11,decrypt,0.0060449,16
+ChaCha20-Poly1305,10000000,12,encrypt,0.0058895,16
+ChaCha20-Poly1305,10000000,12,decrypt,0.0053978,16
+ChaCha20-Poly1305,10000000,13,encrypt,0.0059436,16
+ChaCha20-Poly1305,10000000,13,decrypt,0.0055752,16
+ChaCha20-Poly1305,10000000,14,encrypt,0.0062326,16
+ChaCha20-Poly1305,10000000,14,decrypt,0.0057814,16
+ChaCha20-Poly1305,10000000,15,encrypt,0.0059229,16
+ChaCha20-Poly1305,10000000,15,decrypt,0.0056139,16
+ChaCha20-Poly1305,10000000,16,encrypt,0.0056651,16
+ChaCha20-Poly1305,10000000,16,decrypt,0.0057435,16
+ChaCha20-Poly1305,10000000,17,encrypt,0.0056946,16
+ChaCha20-Poly1305,10000000,17,decrypt,0.0055875,16
+ChaCha20-Poly1305,10000000,18,encrypt,0.0058667,16
+ChaCha20-Poly1305,10000000,18,decrypt,0.005638,16
+ChaCha20-Poly1305,10000000,19,encrypt,0.0058089,16
+ChaCha20-Poly1305,10000000,19,decrypt,0.0055603,16
+ChaCha20-Poly1305,10000000,20,encrypt,0.0053451,16
+ChaCha20-Poly1305,10000000,20,decrypt,0.0051442,16
+ChaCha20-Poly1305,10000000,21,encrypt,0.0054519,16
+ChaCha20-Poly1305,10000000,21,decrypt,0.0055348,16
+ChaCha20-Poly1305,10000000,22,encrypt,0.006525,16
+ChaCha20-Poly1305,10000000,22,decrypt,0.0052845,16
+ChaCha20-Poly1305,10000000,23,encrypt,0.0054238,16
+ChaCha20-Poly1305,10000000,23,decrypt,0.0054757,16
+ChaCha20-Poly1305,10000000,24,encrypt,0.0052595,16
+ChaCha20-Poly1305,10000000,24,decrypt,0.0057768,16
+ChaCha20-Poly1305,10000000,25,encrypt,0.0058215,16
+ChaCha20-Poly1305,10000000,25,decrypt,0.0056756,16
+ChaCha20-Poly1305,10000000,26,encrypt,0.0061018,16
+ChaCha20-Poly1305,10000000,26,decrypt,0.0058793,16
+ChaCha20-Poly1305,10000000,27,encrypt,0.0063926,16
+ChaCha20-Poly1305,10000000,27,decrypt,0.0057464,16
+ChaCha20-Poly1305,10000000,28,encrypt,0.0059466,16
+ChaCha20-Poly1305,10000000,28,decrypt,0.005344,16
+ChaCha20-Poly1305,10000000,29,encrypt,0.0053106,16
+ChaCha20-Poly1305,10000000,29,decrypt,0.0058116,16
+3DES-CBC,10000000,0,encrypt,0.6907747,16
+3DES-CBC,10000000,0,decrypt,0.6827209,16
+3DES-CBC,10000000,1,encrypt,0.6910048,16
+3DES-CBC,10000000,1,decrypt,0.6772957,16
+3DES-CBC,10000000,2,encrypt,0.6961535,16
+3DES-CBC,10000000,2,decrypt,0.6837054,16
+3DES-CBC,10000000,3,encrypt,0.6957394,16
+3DES-CBC,10000000,3,decrypt,0.6835948,16
+3DES-CBC,10000000,4,encrypt,0.6903256,16
+3DES-CBC,10000000,4,decrypt,0.6784948,16
+3DES-CBC,10000000,5,encrypt,0.6896204,16
+3DES-CBC,10000000,5,decrypt,0.6791789,16
+3DES-CBC,10000000,6,encrypt,0.688889,16
+3DES-CBC,10000000,6,decrypt,0.6816163,16
+3DES-CBC,10000000,7,encrypt,0.6944865,16
+3DES-CBC,10000000,7,decrypt,0.6803047,16
+3DES-CBC,10000000,8,encrypt,0.692314,16
+3DES-CBC,10000000,8,decrypt,0.6824011,16
+3DES-CBC,10000000,9,encrypt,0.6918296,16
+3DES-CBC,10000000,9,decrypt,0.679761,16
+3DES-CBC,10000000,10,encrypt,0.691862,16
+3DES-CBC,10000000,10,decrypt,0.6766448,16
+3DES-CBC,10000000,11,encrypt,0.6887937,16
+3DES-CBC,10000000,11,decrypt,0.6823502,16
+3DES-CBC,10000000,12,encrypt,0.7023178,16
+3DES-CBC,10000000,12,decrypt,0.6796074,16
+3DES-CBC,10000000,13,encrypt,0.6909455,16
+3DES-CBC,10000000,13,decrypt,0.6840542,16
+3DES-CBC,10000000,14,encrypt,0.6991967,16
+3DES-CBC,10000000,14,decrypt,0.689942,16
+3DES-CBC,10000000,15,encrypt,0.6959957,16
+3DES-CBC,10000000,15,decrypt,0.6860919,16
+3DES-CBC,10000000,16,encrypt,0.6932456,16
+3DES-CBC,10000000,16,decrypt,0.6804508,16
+3DES-CBC,10000000,17,encrypt,0.7094249,16
+3DES-CBC,10000000,17,decrypt,0.6950295,16
+3DES-CBC,10000000,18,encrypt,0.6946887,16
+3DES-CBC,10000000,18,decrypt,0.6881474,16
+3DES-CBC,10000000,19,encrypt,0.69465,16
+3DES-CBC,10000000,19,decrypt,0.682441,16
+3DES-CBC,10000000,20,encrypt,0.7106029,16
+3DES-CBC,10000000,20,decrypt,0.6869161,16
+3DES-CBC,10000000,21,encrypt,0.7359238,16
+3DES-CBC,10000000,21,decrypt,0.6782627,16
+3DES-CBC,10000000,22,encrypt,0.6915525,16
+3DES-CBC,10000000,22,decrypt,0.6865904,16
+3DES-CBC,10000000,23,encrypt,0.6921383,16
+3DES-CBC,10000000,23,decrypt,0.6896379,16
+3DES-CBC,10000000,24,encrypt,0.6936818,16
+3DES-CBC,10000000,24,decrypt,0.6853394,16
+3DES-CBC,10000000,25,encrypt,0.6930146,16
+3DES-CBC,10000000,25,decrypt,0.6814476,16
+3DES-CBC,10000000,26,encrypt,0.6905671,16
+3DES-CBC,10000000,26,decrypt,0.6797931,16
+3DES-CBC,10000000,27,encrypt,0.6915771,16
+3DES-CBC,10000000,27,decrypt,0.6780793,16
+3DES-CBC,10000000,28,encrypt,0.6911213,16
+3DES-CBC,10000000,28,decrypt,0.6788665,16
+3DES-CBC,10000000,29,encrypt,0.6892763,16
+3DES-CBC,10000000,29,decrypt,0.6813404,16
+AES-256-GCM,100000000,0,encrypt,0.0354951,16
+AES-256-GCM,100000000,0,decrypt,0.0308642,16
+AES-256-GCM,100000000,1,encrypt,0.0342658,16
+AES-256-GCM,100000000,1,decrypt,0.0327745,16
+AES-256-GCM,100000000,2,encrypt,0.0330441,16
+AES-256-GCM,100000000,2,decrypt,0.0329459,16
+AES-256-GCM,100000000,3,encrypt,0.0346115,16
+AES-256-GCM,100000000,3,decrypt,0.0330135,16
+AES-256-GCM,100000000,4,encrypt,0.0381265,16
+AES-256-GCM,100000000,4,decrypt,0.0330858,16
+AES-256-GCM,100000000,5,encrypt,0.0341151,16
+AES-256-GCM,100000000,5,decrypt,0.0340117,16
+AES-256-GCM,100000000,6,encrypt,0.039501,16
+AES-256-GCM,100000000,6,decrypt,0.0332495,16
+AES-256-GCM,100000000,7,encrypt,0.0337534,16
+AES-256-GCM,100000000,7,decrypt,0.032314,16
+AES-256-GCM,100000000,8,encrypt,0.035287,16
+AES-256-GCM,100000000,8,decrypt,0.0321856,16
+AES-256-GCM,100000000,9,encrypt,0.0355373,16
+AES-256-GCM,100000000,9,decrypt,0.0326398,16
+AES-256-GCM,100000000,10,encrypt,0.0341775,16
+AES-256-GCM,100000000,10,decrypt,0.0325883,16
+AES-256-GCM,100000000,11,encrypt,0.0343576,16
+AES-256-GCM,100000000,11,decrypt,0.0313068,16
+AES-256-GCM,100000000,12,encrypt,0.0329329,16
+AES-256-GCM,100000000,12,decrypt,0.0312886,16
+AES-256-GCM,100000000,13,encrypt,0.0344366,16
+AES-256-GCM,100000000,13,decrypt,0.0307826,16
+AES-256-GCM,100000000,14,encrypt,0.033995,16
+AES-256-GCM,100000000,14,decrypt,0.0313785,16
+AES-256-GCM,100000000,15,encrypt,0.0339225,16
+AES-256-GCM,100000000,15,decrypt,0.0319473,16
+AES-256-GCM,100000000,16,encrypt,0.0365425,16
+AES-256-GCM,100000000,16,decrypt,0.0314497,16
+AES-256-GCM,100000000,17,encrypt,0.0402442,16
+AES-256-GCM,100000000,17,decrypt,0.0350905,16
+AES-256-GCM,100000000,18,encrypt,0.0366008,16
+AES-256-GCM,100000000,18,decrypt,0.0362436,16
+AES-256-GCM,100000000,19,encrypt,0.035533,16
+AES-256-GCM,100000000,19,decrypt,0.0343168,16
+AES-256-GCM,100000000,20,encrypt,0.0375939,16
+AES-256-GCM,100000000,20,decrypt,0.0343363,16
+AES-256-GCM,100000000,21,encrypt,0.0348337,16
+AES-256-GCM,100000000,21,decrypt,0.0344764,16
+AES-256-GCM,100000000,22,encrypt,0.0346463,16
+AES-256-GCM,100000000,22,decrypt,0.0323445,16
+AES-256-GCM,100000000,23,encrypt,0.0327735,16
+AES-256-GCM,100000000,23,decrypt,0.0320463,16
+AES-256-GCM,100000000,24,encrypt,0.0329651,16
+AES-256-GCM,100000000,24,decrypt,0.0334324,16
+AES-256-GCM,100000000,25,encrypt,0.0326135,16
+AES-256-GCM,100000000,25,decrypt,0.033245,16
+AES-256-GCM,100000000,26,encrypt,0.0324387,16
+AES-256-GCM,100000000,26,decrypt,0.0312187,16
+AES-256-GCM,100000000,27,encrypt,0.0328885,16
+AES-256-GCM,100000000,27,decrypt,0.0322503,16
+AES-256-GCM,100000000,28,encrypt,0.0347614,16
+AES-256-GCM,100000000,28,decrypt,0.0325134,16
+AES-256-GCM,100000000,29,encrypt,0.0342698,16
+AES-256-GCM,100000000,29,decrypt,0.0327329,16
+ChaCha20 (raw),100000000,0,encrypt,0.0433008,0
+ChaCha20 (raw),100000000,0,decrypt,0.0401938,0
+ChaCha20 (raw),100000000,1,encrypt,0.0428495,0
+ChaCha20 (raw),100000000,1,decrypt,0.0407786,0
+ChaCha20 (raw),100000000,2,encrypt,0.0426646,0
+ChaCha20 (raw),100000000,2,decrypt,0.0417366,0
+ChaCha20 (raw),100000000,3,encrypt,0.0439215,0
+ChaCha20 (raw),100000000,3,decrypt,0.0408551,0
+ChaCha20 (raw),100000000,4,encrypt,0.0436173,0
+ChaCha20 (raw),100000000,4,decrypt,0.0410921,0
+ChaCha20 (raw),100000000,5,encrypt,0.0428687,0
+ChaCha20 (raw),100000000,5,decrypt,0.0400241,0
+ChaCha20 (raw),100000000,6,encrypt,0.0417871,0
+ChaCha20 (raw),100000000,6,decrypt,0.0397199,0
+ChaCha20 (raw),100000000,7,encrypt,0.0451359,0
+ChaCha20 (raw),100000000,7,decrypt,0.0393344,0
+ChaCha20 (raw),100000000,8,encrypt,0.0437743,0
+ChaCha20 (raw),100000000,8,decrypt,0.0418666,0
+ChaCha20 (raw),100000000,9,encrypt,0.0430577,0
+ChaCha20 (raw),100000000,9,decrypt,0.0419404,0
+ChaCha20 (raw),100000000,10,encrypt,0.0420362,0
+ChaCha20 (raw),100000000,10,decrypt,0.0392649,0
+ChaCha20 (raw),100000000,11,encrypt,0.0461707,0
+ChaCha20 (raw),100000000,11,decrypt,0.0398659,0
+ChaCha20 (raw),100000000,12,encrypt,0.0427006,0
+ChaCha20 (raw),100000000,12,decrypt,0.0395293,0
+ChaCha20 (raw),100000000,13,encrypt,0.0413287,0
+ChaCha20 (raw),100000000,13,decrypt,0.0396469,0
+ChaCha20 (raw),100000000,14,encrypt,0.0423121,0
+ChaCha20 (raw),100000000,14,decrypt,0.043136,0
+ChaCha20 (raw),100000000,15,encrypt,0.0423121,0
+ChaCha20 (raw),100000000,15,decrypt,0.0432338,0
+ChaCha20 (raw),100000000,16,encrypt,0.0419102,0
+ChaCha20 (raw),100000000,16,decrypt,0.0410935,0
+ChaCha20 (raw),100000000,17,encrypt,0.0432975,0
+ChaCha20 (raw),100000000,17,decrypt,0.0400341,0
+ChaCha20 (raw),100000000,18,encrypt,0.0437818,0
+ChaCha20 (raw),100000000,18,decrypt,0.0409544,0
+ChaCha20 (raw),100000000,19,encrypt,0.0415884,0
+ChaCha20 (raw),100000000,19,decrypt,0.041677,0
+ChaCha20 (raw),100000000,20,encrypt,0.0425916,0
+ChaCha20 (raw),100000000,20,decrypt,0.0404003,0
+ChaCha20 (raw),100000000,21,encrypt,0.042895,0
+ChaCha20 (raw),100000000,21,decrypt,0.0402856,0
+ChaCha20 (raw),100000000,22,encrypt,0.0428756,0
+ChaCha20 (raw),100000000,22,decrypt,0.0401988,0
+ChaCha20 (raw),100000000,23,encrypt,0.0426629,0
+ChaCha20 (raw),100000000,23,decrypt,0.0402316,0
+ChaCha20 (raw),100000000,24,encrypt,0.0425443,0
+ChaCha20 (raw),100000000,24,decrypt,0.0398569,0
+ChaCha20 (raw),100000000,25,encrypt,0.0424193,0
+ChaCha20 (raw),100000000,25,decrypt,0.0403074,0
+ChaCha20 (raw),100000000,26,encrypt,0.0417713,0
+ChaCha20 (raw),100000000,26,decrypt,0.0397147,0
+ChaCha20 (raw),100000000,27,encrypt,0.0441452,0
+ChaCha20 (raw),100000000,27,decrypt,0.0420352,0
+ChaCha20 (raw),100000000,28,encrypt,0.0471384,0
+ChaCha20 (raw),100000000,28,decrypt,0.043933,0
+ChaCha20 (raw),100000000,29,encrypt,0.0458513,0
+ChaCha20 (raw),100000000,29,decrypt,0.04199,0
+ChaCha20-Poly1305,100000000,0,encrypt,0.0542241,16
+ChaCha20-Poly1305,100000000,0,decrypt,0.0515503,16
+ChaCha20-Poly1305,100000000,1,encrypt,0.053917,16
+ChaCha20-Poly1305,100000000,1,decrypt,0.0549281,16
+ChaCha20-Poly1305,100000000,2,encrypt,0.05473,16
+ChaCha20-Poly1305,100000000,2,decrypt,0.0526031,16
+ChaCha20-Poly1305,100000000,3,encrypt,0.057278,16
+ChaCha20-Poly1305,100000000,3,decrypt,0.0518319,16
+ChaCha20-Poly1305,100000000,4,encrypt,0.0541174,16
+ChaCha20-Poly1305,100000000,4,decrypt,0.0521961,16
+ChaCha20-Poly1305,100000000,5,encrypt,0.0546263,16
+ChaCha20-Poly1305,100000000,5,decrypt,0.0529725,16
+ChaCha20-Poly1305,100000000,6,encrypt,0.0557518,16
+ChaCha20-Poly1305,100000000,6,decrypt,0.0527542,16
+ChaCha20-Poly1305,100000000,7,encrypt,0.059463,16
+ChaCha20-Poly1305,100000000,7,decrypt,0.0525216,16
+ChaCha20-Poly1305,100000000,8,encrypt,0.0561777,16
+ChaCha20-Poly1305,100000000,8,decrypt,0.0540003,16
+ChaCha20-Poly1305,100000000,9,encrypt,0.0558769,16
+ChaCha20-Poly1305,100000000,9,decrypt,0.0532373,16
+ChaCha20-Poly1305,100000000,10,encrypt,0.0540929,16
+ChaCha20-Poly1305,100000000,10,decrypt,0.0531891,16
+ChaCha20-Poly1305,100000000,11,encrypt,0.0546541,16
+ChaCha20-Poly1305,100000000,11,decrypt,0.0532525,16
+ChaCha20-Poly1305,100000000,12,encrypt,0.0570571,16
+ChaCha20-Poly1305,100000000,12,decrypt,0.0522154,16
+ChaCha20-Poly1305,100000000,13,encrypt,0.0545041,16
+ChaCha20-Poly1305,100000000,13,decrypt,0.052486,16
+ChaCha20-Poly1305,100000000,14,encrypt,0.05445,16
+ChaCha20-Poly1305,100000000,14,decrypt,0.052715,16
+ChaCha20-Poly1305,100000000,15,encrypt,0.0538813,16
+ChaCha20-Poly1305,100000000,15,decrypt,0.0520649,16
+ChaCha20-Poly1305,100000000,16,encrypt,0.0544184,16
+ChaCha20-Poly1305,100000000,16,decrypt,0.051612,16
+ChaCha20-Poly1305,100000000,17,encrypt,0.0543707,16
+ChaCha20-Poly1305,100000000,17,decrypt,0.0524206,16
+ChaCha20-Poly1305,100000000,18,encrypt,0.0565976,16
+ChaCha20-Poly1305,100000000,18,decrypt,0.0547328,16
+ChaCha20-Poly1305,100000000,19,encrypt,0.0613547,16
+ChaCha20-Poly1305,100000000,19,decrypt,0.0595609,16
+ChaCha20-Poly1305,100000000,20,encrypt,0.0579997,16
+ChaCha20-Poly1305,100000000,20,decrypt,0.060104,16
+ChaCha20-Poly1305,100000000,21,encrypt,0.0570161,16
+ChaCha20-Poly1305,100000000,21,decrypt,0.0538732,16
+ChaCha20-Poly1305,100000000,22,encrypt,0.057154,16
+ChaCha20-Poly1305,100000000,22,decrypt,0.0541962,16
+ChaCha20-Poly1305,100000000,23,encrypt,0.0582517,16
+ChaCha20-Poly1305,100000000,23,decrypt,0.0516338,16
+ChaCha20-Poly1305,100000000,24,encrypt,0.060593,16
+ChaCha20-Poly1305,100000000,24,decrypt,0.0524154,16
+ChaCha20-Poly1305,100000000,25,encrypt,0.0543258,16
+ChaCha20-Poly1305,100000000,25,decrypt,0.0575619,16
+ChaCha20-Poly1305,100000000,26,encrypt,0.0547862,16
+ChaCha20-Poly1305,100000000,26,decrypt,0.0551957,16
+ChaCha20-Poly1305,100000000,27,encrypt,0.0554695,16
+ChaCha20-Poly1305,100000000,27,decrypt,0.0531706,16
+ChaCha20-Poly1305,100000000,28,encrypt,0.0567888,16
+ChaCha20-Poly1305,100000000,28,decrypt,0.0535504,16
+ChaCha20-Poly1305,100000000,29,encrypt,0.0553402,16
+ChaCha20-Poly1305,100000000,29,decrypt,0.0545184,16
+3DES-CBC,100000000,0,encrypt,6.9317002,16
+3DES-CBC,100000000,0,decrypt,6.8429008,16
+3DES-CBC,100000000,1,encrypt,6.9253429,16
+3DES-CBC,100000000,1,decrypt,6.8121357,16
+3DES-CBC,100000000,2,encrypt,6.9102989,16
+3DES-CBC,100000000,2,decrypt,6.7848043,16
+3DES-CBC,100000000,3,encrypt,6.9015329,16
+3DES-CBC,100000000,3,decrypt,6.854681,16
+3DES-CBC,100000000,4,encrypt,6.9269298,16
+3DES-CBC,100000000,4,decrypt,6.8393596,16
+3DES-CBC,100000000,5,encrypt,6.9783107,16
+3DES-CBC,100000000,5,decrypt,6.8073374,16
+3DES-CBC,100000000,6,encrypt,6.9519575,16
+3DES-CBC,100000000,6,decrypt,6.805701,16
+3DES-CBC,100000000,7,encrypt,6.9335188,16
+3DES-CBC,100000000,7,decrypt,6.8063358,16
+3DES-CBC,100000000,8,encrypt,6.9213228,16
+3DES-CBC,100000000,8,decrypt,6.8318195,16
+3DES-CBC,100000000,9,encrypt,6.906287,16
+3DES-CBC,100000000,9,decrypt,6.8081293,16
+3DES-CBC,100000000,10,encrypt,6.9242625,16
+3DES-CBC,100000000,10,decrypt,6.8219013,16
+3DES-CBC,100000000,11,encrypt,6.9177521,16
+3DES-CBC,100000000,11,decrypt,6.8545528,16
+3DES-CBC,100000000,12,encrypt,6.9253718,16
+3DES-CBC,100000000,12,decrypt,6.8099831,16
+3DES-CBC,100000000,13,encrypt,6.9593193,16
+3DES-CBC,100000000,13,decrypt,6.8016435,16
+3DES-CBC,100000000,14,encrypt,6.9203002,16
+3DES-CBC,100000000,14,decrypt,6.8613074,16
+3DES-CBC,100000000,15,encrypt,6.9552132,16
+3DES-CBC,100000000,15,decrypt,6.8198798,16
+3DES-CBC,100000000,16,encrypt,6.9289944,16
+3DES-CBC,100000000,16,decrypt,6.8041583,16
+3DES-CBC,100000000,17,encrypt,6.9669069,16
+3DES-CBC,100000000,17,decrypt,6.8196855,16
+3DES-CBC,100000000,18,encrypt,6.9298294,16
+3DES-CBC,100000000,18,decrypt,6.8142091,16
+3DES-CBC,100000000,19,encrypt,6.9456015,16
+3DES-CBC,100000000,19,decrypt,6.8736491,16
+3DES-CBC,100000000,20,encrypt,6.9111532,16
+3DES-CBC,100000000,20,decrypt,6.8410761,16
+3DES-CBC,100000000,21,encrypt,6.9240408,16
+3DES-CBC,100000000,21,decrypt,6.7994178,16
+3DES-CBC,100000000,22,encrypt,6.956319,16
+3DES-CBC,100000000,22,decrypt,6.8216483,16
+3DES-CBC,100000000,23,encrypt,6.9267166,16
+3DES-CBC,100000000,23,decrypt,6.8082853,16
+3DES-CBC,100000000,24,encrypt,6.9482578,16
+3DES-CBC,100000000,24,decrypt,6.8053909,16
+3DES-CBC,100000000,25,encrypt,6.9344845,16
+3DES-CBC,100000000,25,decrypt,6.8272181,16
+3DES-CBC,100000000,26,encrypt,6.9196774,16
+3DES-CBC,100000000,26,decrypt,6.8048196,16
+3DES-CBC,100000000,27,encrypt,6.9275858,16
+3DES-CBC,100000000,27,decrypt,6.7863426,16
+3DES-CBC,100000000,28,encrypt,6.9358614,16
+3DES-CBC,100000000,28,decrypt,6.8025401,16
+3DES-CBC,100000000,29,encrypt,6.9112734,16
+3DES-CBC,100000000,29,decrypt,6.7932565,16
